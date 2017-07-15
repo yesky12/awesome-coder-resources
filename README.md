@@ -8,8 +8,10 @@ Awesome resources for coding and learning: open source projects, websites, books
     - [大数据](#book--大数据)
 - [awesome系列](#awesome系列)
 - [网站](#网站)
-    - [教育/培训](#教育/培训)
+    - [教育/培训](#网站--教育/培训)
 - [博客](#博客)
+    - [大数据](#博客--大数据)
+    - [开发](#博客--开发)
 - [面试](#面试)
 
 
@@ -32,7 +34,7 @@ Awesome resources for coding and learning: open source projects, websites, books
 
 ## 网站
 
-#### 教育/培训
+#### 网站--教育/培训
 
 + [飞谷云首页](http://www.feiguyun.com/)
 + [天善智能学院](https://edu.hellobi.com/)：商业智能和大数据在线社区，用心创造价值
@@ -41,10 +43,10 @@ Awesome resources for coding and learning: open source projects, websites, books
 
 ## 博客
 
-#### 博客>>大数据
+#### 博客--大数据
 + [董的博客](http://dongxicheng.org/about/)
 
-#### 博客>>开发
+#### 博客--开发
 + [程序猿DD | 博客](http://blog.didispace.com/)
 
 
