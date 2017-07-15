@@ -9,6 +9,9 @@ Awesome resources for coding and learning: open source projects, websites, books
 - [awesome系列](#awesome系列)
 - [网站](#网站)
     - [教育/培训](#教育/培训)
+- [博客](#博客)
+- [面试](#面试)
+
 
 <!-- END 目录 -->
 
@@ -36,4 +39,15 @@ Awesome resources for coding and learning: open source projects, websites, books
 + [知数学院](http://www.zhishu51.com/)：大数据培训_人工智能培训,大数据_人工智能在线直播学习平台
 
 
+## 博客
+
+#### 大数据
++ [董的博客](http://dongxicheng.org/about/)
+
+#### 开发
++ [程序猿DD | 博客](http://blog.didispace.com/)
+
+
+## [面试](https://github.com/yesky12/awesome-coder-resources/blob/master/面试题.md)
++ [面试](https://github.com/yesky12/awesome-coder-resources/blob/master/面试题.md)
 
