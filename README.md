@@ -5,13 +5,13 @@ Awesome resources for coding and learning: open source projects, websites, books
 ## 目录
 
 - [book](#book)
-    - [大数据](#bigdata)
+    - [大数据](#大数据)
 
 <!-- END 目录 -->
 
 ## book
 
-####bigdata
+#### 大数据
 
 + 《大数据和我们》（Data for the People）
 
