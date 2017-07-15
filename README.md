@@ -6,11 +6,16 @@ Awesome resources for coding and learning: open source projects, websites, books
 
 - [book](#book)
     - [大数据](#大数据)
-
+- [awesome系列](#awesome系列)
 
 
 <!-- END 目录 -->
 
+## awesome系列
+
+
+[lyfeyaj/awesome-resources](https://github.com/lyfeyaj/awesome-resources): Awesome resources for coding and learning: open source projects, websites, books e.g.
+[weiweifan/Big-Data-Resources](https://github.com/weiweifan/Big-Data-Resources): 大数据/数据挖掘/推荐系统/机器学习相关资源
 
 ## book
 
