@@ -8,10 +8,10 @@ Awesome resources for coding and learning: open source projects, websites, books
     - [大数据](#book--大数据)
 - [awesome系列](#awesome系列)
 - [网站](#网站)
-    - [教育/培训](#网站--教育/培训)
+    - [教育/培训](#网站--教育/培训)
 - [博客](#博客)
-    - [大数据](#博客--大数据)
-    - [开发](#博客--开发)
+    - [大数据](#博客--大数据)
+    - [开发](#博客--开发)
 - [面试](#面试)
 
 
@@ -19,7 +19,8 @@ Awesome resources for coding and learning: open source projects, websites, books
 
 ## awesome系列
 
-
++ [Search · topic:awesome](https://github.com/search?q=topic%3Aawesome&type=Repositories)
++ [sindresorhus/awesome](https://github.com/sindresorhus/awesome): Curated list of awesome lists(6w star+)
 + [lyfeyaj/awesome-resources](https://github.com/lyfeyaj/awesome-resources): Awesome resources for coding and learning: open source projects, websites, books e.g.
 + [weiweifan/Big-Data-Resources](https://github.com/weiweifan/Big-Data-Resources): 大数据/数据挖掘/推荐系统/机器学习相关资源
 
