@@ -7,15 +7,16 @@ Awesome resources for coding and learning: open source projects, websites, books
 - [book](#book)
     - [大数据](#大数据)
 - [awesome系列](#awesome系列)
-
+- [网站](#网站)
+    - [教育/培训](#教育/培训)
 
 <!-- END 目录 -->
 
 ## awesome系列
 
 
-[lyfeyaj/awesome-resources](https://github.com/lyfeyaj/awesome-resources): Awesome resources for coding and learning: open source projects, websites, books e.g.
-[weiweifan/Big-Data-Resources](https://github.com/weiweifan/Big-Data-Resources): 大数据/数据挖掘/推荐系统/机器学习相关资源
++ [lyfeyaj/awesome-resources](https://github.com/lyfeyaj/awesome-resources): Awesome resources for coding and learning: open source projects, websites, books e.g.
++ [weiweifan/Big-Data-Resources](https://github.com/weiweifan/Big-Data-Resources): 大数据/数据挖掘/推荐系统/机器学习相关资源
 
 ## book
 
@@ -25,3 +26,14 @@ Awesome resources for coding and learning: open source projects, websites, books
 
 [亚马逊前首席科学家:大数据价值体现在AI、BI、CI、DI|大数据|亚马逊|人工智能_新浪科技_新浪网](http://tech.sina.com.cn/i/2017-01-06/doc-ifxzkfuk2567848.shtml)：
 在《大数据和我们》（Data for the People）一书中文版发布之际，作者韦思岸接受了界面新闻记者的采访。
+
+## 网站
+
+#### 教育/培训
+
++ [飞谷云首页](http://www.feiguyun.com/)
++ [天善智能学院](https://edu.hellobi.com/)：商业智能和大数据在线社区，用心创造价值
++ [知数学院](http://www.zhishu51.com/)：大数据培训_人工智能培训,大数据_人工智能在线直播学习平台
+
+
+
