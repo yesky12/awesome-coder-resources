@@ -1,15 +1,17 @@
 ## awesome-coder-resources
 Awesome resources for coding and learning: open source projects, websites, books, blogs e.g.
 
+<!-- BEGIN 目录 -->
 ## 目录
 
 - [book](#book)
-    - [大数据](#大数据)
+    - [大数据](#bigdata)
 
+<!-- END 目录 -->
 
 ## book
 
-####大数据
+####bigdata
 
 + 《大数据和我们》（Data for the People）
 
