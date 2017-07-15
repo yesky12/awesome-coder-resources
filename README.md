@@ -9,7 +9,7 @@ Awesome resources for coding and learning: open source projects, websites, books
 - [awesome系列](#awesome系列)
 - [网站](#网站)
     - [教育/培训](#网站--教育/培训)
-    - [公司](#网站--教育/培训)
+    - [公司](#网站--公司)
 - [博客](#博客)
     - [大数据](#博客--大数据)
     - [开发](#博客--开发)
