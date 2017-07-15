@@ -5,7 +5,7 @@ Awesome resources for coding and learning: open source projects, websites, books
 ## 目录
 
 - [book](#book)
-    - [大数据](#book>>大数据)
+    - [大数据](#book--大数据)
 - [awesome系列](#awesome系列)
 - [网站](#网站)
     - [教育/培训](#教育/培训)
@@ -23,7 +23,7 @@ Awesome resources for coding and learning: open source projects, websites, books
 
 ## book
 
-#### book>>大数据
+#### book--大数据
 
 + 《大数据和我们》（Data for the People）
 
