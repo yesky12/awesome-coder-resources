@@ -20,10 +20,15 @@ Awesome resources for coding and learning: open source projects, websites, books
 
 ## awesome系列
 
+
++ [weiweifan/Big-Data-Resources](https://github.com/weiweifan/Big-Data-Resources): 大数据/数据挖掘/推荐系统/机器学习相关资源
++ [onurakpolat/awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata): A curated list of awesome big data frameworks, ressources and other awesomeness.
+
 + [Search · topic:awesome](https://github.com/search?q=topic%3Aawesome&type=Repositories)
 + [sindresorhus/awesome](https://github.com/sindresorhus/awesome): Curated list of awesome lists(6w star+)
 + [lyfeyaj/awesome-resources](https://github.com/lyfeyaj/awesome-resources): Awesome resources for coding and learning: open source projects, websites, books e.g.
-+ [weiweifan/Big-Data-Resources](https://github.com/weiweifan/Big-Data-Resources): 大数据/数据挖掘/推荐系统/机器学习相关资源
+
+
 
 ## book
 
