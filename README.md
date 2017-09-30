@@ -24,6 +24,7 @@ Awesome resources for coding and learning: open source projects, websites, books
 + [weiweifan/Big-Data-Resources](https://github.com/weiweifan/Big-Data-Resources): 大数据/数据挖掘/推荐系统/机器学习相关资源
 + [onurakpolat/awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata): A curated list of awesome big data frameworks, ressources and other awesomeness.
 + [bulutyazilim/awesome-datascience](https://github.com/bulutyazilim/awesome-datascience)：An awesome Data Science repository to learn and apply for real world problems.
++ [MaximAbramchuck/awesome-interview-questions: A curated awesome list of lists of interview questions. Feel free to contribute!](https://github.com/MaximAbramchuck/awesome-interview-questions)
 
 + [Search · topic:awesome](https://github.com/search?q=topic%3Aawesome&type=Repositories)
 + [sindresorhus/awesome](https://github.com/sindresorhus/awesome): Curated list of awesome lists(6w star+)
@@ -65,3 +66,7 @@ Awesome resources for coding and learning: open source projects, websites, books
 ## [面试](https://github.com/yesky12/awesome-coder-resources/blob/master/面试题.md)
 + [面试](https://github.com/yesky12/awesome-coder-resources/blob/master/面试题.md)
 
+
+## 教程
+
++ [ossu/computer-science: Path to a free self-taught education in Computer Science!](https://github.com/ossu/computer-science)
