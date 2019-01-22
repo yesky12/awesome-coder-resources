@@ -4,9 +4,10 @@ Awesome resources for coding and learning: open source projects, websites, books
 <!-- BEGIN 目录 -->
 ## 目录
 
+- [阅读文摘](#阅读文摘)
+- [awesome系列](#awesome系列)
 - [book](#book)
     - [大数据](#book--大数据)
-- [awesome系列](#awesome系列)
 - [网站](#网站)
     - [教育/培训](#网站--教育/培训)
     - [公司](#网站--公司)
@@ -17,6 +18,10 @@ Awesome resources for coding and learning: open source projects, websites, books
 
 
 <!-- END 目录 -->
+
+## 阅读文摘：
++ [2019年1月阅读日志(read_201901.md)](https://github.com/yesky12/awesome-coder-resources/blob/master/read/read_201901.md)
+
 
 ## awesome系列
 
