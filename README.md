@@ -8,13 +8,15 @@ Awesome resources for coding and learning: open source projects, websites, books
 - [awesome系列](#awesome系列)
 - [book](#book)
     - [大数据](#book--大数据)
-- [网站](#网站)
-    - [教育/培训](#网站--教育/培训)
-    - [公司](#网站--公司)
 - [博客](#博客)
     - [大数据](#博客--大数据)
     - [开发](#博客--开发)
+- [网站](#网站)
+    - [教育/培训](#网站--教育/培训)
+    - [公司](#网站--公司)  
+    - [求职](#网站--求职)  
 - [面试](#面试)
+- [邮箱订阅-技术周刊](#邮箱订阅-技术周刊)
 
 
 <!-- END 目录 -->
@@ -58,6 +60,11 @@ Awesome resources for coding and learning: open source projects, websites, books
 
 + [海致BDP-大数据时代的商业智能](https://www.bdp.cn/home.html)
 
+#### 网站--求职
+
++ [拉钩](http://www.lagou.com)
+
+
 
 ## 博客
 
@@ -75,3 +82,8 @@ Awesome resources for coding and learning: open source projects, websites, books
 ## 教程
 
 + [ossu/computer-science: Path to a free self-taught education in Computer Science!](https://github.com/ossu/computer-science)
+
+
+## 邮箱订阅-技术周刊
+
++ [码农周刊是一份专为程序员打造的IT技术周刊。我们会为你精选一周IT技术干货，每周一发送，完全免费。](https://weekly.manong.io/)
