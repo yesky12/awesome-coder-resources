@@ -2,6 +2,11 @@
 
 ##网站
 
+### list
+> ----------World Wide Web Consortium (W3C)
+> https://www.w3.org/
+
+
 ###技术社区
 > ----------IT技术文章_慕课网手记
 > https://www.imooc.com/article/follow

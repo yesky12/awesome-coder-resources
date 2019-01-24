@@ -4,23 +4,17 @@
 
 > ----------Linux的哲学思想 - ZhengLiming - 博客园
 > https://www.cnblogs.com/ZhengLiming/p/5875049.html
-
-Linux哲学思想：
-
-1、一切皆文件；
-
-2、小型，单一用途的程序；（KISS）
-
-3、连接程序，共同完成复杂功能；
-
-4、避免令人困惑的用户界面；
-
-5、配置数据存储在文本中；
+> Linux哲学思想：
+> 1、一切皆文件；
+> 2、小型，单一用途的程序；（KISS）
+> 3、连接程序，共同完成复杂功能；
+> 4、避免令人困惑的用户界面；
+> 5、配置数据存储在文本中；
 
 ==========
 
 
-
+#### 纯文本的格式
 > ----------Linux 中优秀的**文本化编辑思想**大碰撞（Markdown、LaTeX、MathJax） - 京山游侠 - 博客园
 > https://www.cnblogs.com/youxia/p/linux014.html
 

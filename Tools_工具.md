@@ -1,8 +1,6 @@
 
 
-## IDE/notepad
-
-###vscode
+##vscode
 
 ####vscode）重要的
 > REST Client 
@@ -10,6 +8,16 @@
 > Code Runner
 > Todo+
 > Markdown All in One
+
+####vscode）22
+//已有扩展的试用，记录到github，
+文件管理器（打开任意文件），
+//，markdown，
+//git提交
+//todo标记，
+//sql扩展
+多行tab显示
+
 
 <!-- list -->
 #### vscode）list
@@ -39,6 +47,23 @@ s-sone	select one row by where condition
 
 ==========
 
+> ----------VSCode 拓展插件推荐 - zhangzongshan - 博客园
+> https://www.cnblogs.com/zzsdream/p/6592429.html
+
+Git Blame 在状态栏显示当前行的Git信息
+
+Git History(git log) 查看git log
+
+GitLens 显示文件最近的commit和作者，显示当前行commit信息
+
+Prettify JSON 格式化JSON
+
+Project Manager 快速切换项目
+
+[a](#)
+
+============================================================
+
 
 
 > ----------能让你开发效率翻倍的 VSCode 插件配置（中）_慕课手记
@@ -54,23 +79,11 @@ Code Runner，名副其实的代码运行插件，支持数十种语言，在不
 
 Supports TypeScript, Python, Go, Ruby, C#, Java, Swift, Rust, Kotlin, C++, Flow, Objective-C, JavaScript, Elm, and JSON Schema.
 
-==========
+============================================================
 
-> ----------REST Client - Visual Studio Marketplace
-> https://marketplace.visualstudio.com/items?itemName=humao.rest-client
 
-GET https://example.com/topics/1 HTTP/1.1
 
-//
-POST https://example.com/comments HTTP/1.1
-content-type: application/json
-
-{
-    "name": "sample",
-    "time": "Wed, 21 Oct 2015 18:27:50 GMT"
-}
-
-==========
+===========================================================
 
 > ----------Todo+ - Visual Studio Marketplace
 > https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-todo-plus
@@ -80,5 +93,10 @@ Done: ✔ ✓ ☑ + [x] [X] [+]
 Cancelled: ✘ x X [-]
 
 ==========
+
+
+## Chrome
+> surfingkeys
+> crxMouse
 
 
