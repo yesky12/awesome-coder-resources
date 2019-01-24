@@ -6,16 +6,18 @@ Awesome resources for coding and learning: open source projects, websites, books
 
 - [阅读文摘](#阅读文摘)
 - [awesome系列](#awesome系列)
+- [开源](#开源)
+- [面试](#面试)
 - [book](#book)
     - [大数据](#book--大数据)
 - [博客](#博客)
     - [大数据](#博客--大数据)
     - [开发](#博客--开发)
 - [网站](#网站)
+    - [技术社区](#技术社区)
     - [教育/培训](#网站--教育/培训)
     - [公司](#网站--公司)  
     - [求职](#网站--求职)  
-- [面试](#面试)
 - [邮箱订阅-技术周刊](#邮箱订阅-技术周刊)
 
 
@@ -49,6 +51,12 @@ Awesome resources for coding and learning: open source projects, websites, books
 在《大数据和我们》（Data for the People）一书中文版发布之际，作者韦思岸接受了界面新闻记者的采访。
 
 ## 网站
+
+#### 技术社区
++ [掘金 - juejin.im - 一个帮助开发者成长的社区](https://juejin.im/)
++ [SegmentFault 思否 - 后端](https://segmentfault.com/channel/backend)
++ [阿里云云栖社区 - 简书](https://www.jianshu.com/u/12532d36e4da)
++ [云栖社区-阿里云官方开发者社区_权威的云计算社区_大数据论坛_IT技术论坛](https://yq.aliyun.com/)
 
 #### 网站--教育/培训
 
@@ -87,3 +95,8 @@ Awesome resources for coding and learning: open source projects, websites, books
 ## 邮箱订阅-技术周刊
 
 + [码农周刊是一份专为程序员打造的IT技术周刊。我们会为你精选一周IT技术干货，每周一发送，完全免费。](https://weekly.manong.io/)
+
+## 开源
+
++ [芋道源码 —— 纯源码解析博客(愿半生编码，如一生老友！)](http://www.iocoder.cn/)
+
