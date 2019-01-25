@@ -1,15 +1,28 @@
 
+- [vscode）重要的](#vscode%E9%87%8D%E8%A6%81%E7%9A%84)
+- [vscode）22](#vscode22)
+- [vscode）list](#vscodelist)
+- [vscode）文摘](#vscode%E6%96%87%E6%91%98)
+
+
+
 ##vscode
 
-####vscode）重要的
+#### vscode）重要的
 > REST Client 
 > SQL Snippets
 > Code Runner
 > Todo+
 > Markdown All in One
 
-####vscode）22
-//已有扩展的试用，记录到github，
+#### vscode）22
+
+
+>vscode扩展试用，2019-1-25 17:28:59
+  ctrl+l快速定位，类似emacs插件，
+  打开文件（工程内的文件）
+
+>//已有扩展的试用，记录到github，
 文件管理器（打开任意文件），
 //，markdown，
 //git提交

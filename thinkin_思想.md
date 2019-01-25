@@ -1,6 +1,6 @@
 
 
-### Linux思想
+## Linux思想
 
 > ----------Linux的哲学思想 - ZhengLiming - 博客园
 > https://www.cnblogs.com/ZhengLiming/p/5875049.html
