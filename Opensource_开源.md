@@ -1,29 +1,42 @@
+- [数据](#%E6%95%B0%E6%8D%AE)
+    - [quicksql（360）](#quicksql360)
+- [前端](#%E5%89%8D%E7%AB%AF)
+- [Java](#java)
+    - [Lib](#lib)
+- [AI算法](#ai%E7%AE%97%E6%B3%95)
+- [List(待整理)](#list%E5%BE%85%E6%95%B4%E7%90%86)
 
+## 数据
+
+#### quicksql（360）
+
+## 前端
 。。SmartTable 是一套数据源使用 Ajax 获取数据，并展现成表格与图像的形式，并且支持下载（思路源于talkingdata）的智能表格。开源引入：Bootstrap 3.0，Bootstrap respond (IE解决方案)，Jquery 11.02，dataTables，echarts，table2CSV
-。。bytecodeviewer是一款简单易用功能强大的反编译软件。它是一款基于图形界面的Java反编译器，Java字节码编辑器，APK编辑器，Dex编辑器，APK反编译器，DEX反编译器。不仅如此，它还是一款Hex查看器，代码搜索器和代码调试器。除此之外，它还具备Smali和Baksmali等汇编器的相关功能。
+
+## Java
+> bytecodeviewer是一款简单易用功能强大的反编译软件。
+> 它是一款基于图形界面的Java反编译器，Java字节码编辑器，APK编辑器，Dex编辑器，APK反编译器，DEX反编译器。不仅如此，它还是一款Hex查看器，代码搜索器和代码调试器。除此之外，它还具备Smali和Baksmali等汇编器的相关功能。
+
+> JarsLink (原名 Titan ) -基于 Java 的模块化开发框架
+https://github.com/alibaba/jarslink Star 21058
+JarsLink (原名 Titan ) 是一个基于 Java 的模块化开发框架，它提供在运行时动态加载模块（一个 Jar 包）、卸载模块和模块间调用的 API。目前蚂蚁金服微贷事业部几个系统和几十个模块已经使用JarsLink框架。
+
+
+#### Lib
+> NullAway 是 Uber 开源的一款帮助你清除 Java 代码中的 NullPointerException（NPE）的工具，快速且实用。NullAway 类似于 Kotlin 和 Swift 语言中的基于类型的可空性检查，能显着提高开发人员的生产力，同时也满足高要求的安全检查需求。
+https://github.com/uber/NullAway
+
+
+## AI算法
 。。https://github.com/hankcs/HanLP Star 6273
-
-
 HanLP是由一系列模型与算法组成的Java工具包，目标是普及自然语言处理在生产环境中的应用。HanLP具备功能完善、性能高效、架构清晰、语料时新、可自定义的特点。在提供丰富功能的同时，HanLP内部模块坚持低耦合、模型坚持惰性加载、服务坚持静态提供、词典坚持明文发布，使用非常方便，同时自带一些语料处理工具，帮助用户训练自己的模型。
 
 
 
-。。https://github.com/alibaba/jarslink Star 21058
 
 
-JarsLink (原名 Titan ) 是一个基于 Java 的模块化开发框架，它提供在运行时动态加载模块（一个 Jar 包）、卸载模块和模块间调用的 API。目前蚂蚁金服微贷事业部几个系统和几十个模块已经使用JarsLink框架。
-
-
-。。https://github.com/uber/NullAway Star 1840
-
-
-NullAway 是 Uber 开源的一款帮助你清除 Java 代码中的 NullPointerException（NPE）的工具，快速且实用。NullAway 类似于 Kotlin 和 Swift 语言中的基于类型的可空性检查，能显着提高开发人员的生产力，同时也满足高要求的安全检查需求。
-
-
-
-。。https://github.com/JeffLi1993/springboot-learning-example Star 4427
-
-
+## List(待整理)
+。。https://github.com/JeffLi1993/springboot-learning-example Star
 spring boot 实践学习案例，是 spring boot 初学者及核心技术巩固的最佳实践。
 
 
