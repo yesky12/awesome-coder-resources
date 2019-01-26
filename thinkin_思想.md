@@ -1,6 +1,48 @@
 
+**目录：**
 
-## Linux思想
+- [编程思想](#%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3)
+    - [list](#list)
+    - [设计思想](#%E8%AE%BE%E8%AE%A1%E6%80%9D%E6%83%B3)
+    - [容器思想](#%E5%AE%B9%E5%99%A8%E6%80%9D%E6%83%B3)
+    - [Linux思想](#linux%E6%80%9D%E6%83%B3)
+        - [纯文本的格式](#%E7%BA%AF%E6%96%87%E6%9C%AC%E7%9A%84%E6%A0%BC%E5%BC%8F)
+
+===============================================
+
+## 编程思想
+
+#### list
+
+> ----------运维咖啡吧
+> https://mp.weixin.qq.com/s?__biz=MzU5MDY1MzcyOQ==&mid=2247483730&idx=1&sn=435c10f8c1ec6938f80b0e7d814dfdcd&scene=21#wechat_redirect
+>
+> + 简单即是美
+> + 适合自己的就是最好的
+
+
+
+#### 设计思想
+
+>动态绑定优于静态绑定
+
+>隔离变化
+
+> **软件硬件化**，硬件软件化
+>     做软件的**主板**
+
+
+
+#### 容器思想
+
+
+> ----------运维咖啡吧
+> https://mp.weixin.qq.com/s/xnBehfSlZ3J02xb0GFuGDw
+缺少**编排**的容器是没有灵魂的
+
+
+
+#### Linux思想
 
 > ----------Linux的哲学思想 - ZhengLiming - 博客园
 > https://www.cnblogs.com/ZhengLiming/p/5875049.html
@@ -14,7 +56,7 @@
 ==========
 
 
-#### 纯文本的格式
+###### 纯文本的格式
 > ----------Linux 中优秀的**文本化编辑思想**大碰撞（Markdown、LaTeX、MathJax） - 京山游侠 - 博客园
 > https://www.cnblogs.com/youxia/p/linux014.html
 
