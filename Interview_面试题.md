@@ -7,6 +7,16 @@
 
 ## Java面试
 
+
+### 多线程
+
+//
+> ----------Java线程面试题 Top 50 - ImportNew
+> http://www.importnew.com/12773.html
+
+
+
+
 > ----------Java线程面试题 Top 50 （转载） - 海 子 - 博客园
 > https://www.cnblogs.com/dolphin0520/p/3958019.html
 

@@ -20,9 +20,15 @@
 
 ## 技术社区
 
-#### 微信
+#### 微信公众号
+
+//
 > ----------值得程序员和设计师关注的微信公众号 - 文章 - 伯乐在线
 > http://blog.jobbole.com/84342/?utm_source=group.jobbole.com&utm_medium=rightBanner&utm_content=2015.9.16
+
+> ----------值得程序员和设计师关注的微信公众号 - 文章 - 伯乐在线
+> http://blog.jobbole.com/84342/?utm_source=group.jobbole.com&utm_medium=rightBanner&utm_content=2015.9.16
+
 
 
 #### 邮箱订阅-技术周刊

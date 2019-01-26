@@ -1,5 +1,5 @@
-> awesome-coder-resources：
-Awesome resources for coding and learning: open source projects, websites, books, blogs e.g.
+> 原文地址：https://github.com/yesky12/awesome-coder-resources
+> 转发请注明来源
 
 <!-- BEGIN 目录 -->
 **目录：**
@@ -101,7 +101,7 @@ Awesome resources for coding and learning: open source projects, websites, books
 
 ==================================================
 
-<!-- Opensouce开始 -->
+<!-- Opensource1.开始 -->
 
 
 ===============================================
@@ -910,9 +910,17 @@ mall项目是一套电商系统，包括前台商城系统及后台管理系统�
 。。Arthas旨在帮助开发人员解决Java应用程序的生产问题，无需修改代码或重新启动服务器。有了Arthas，你就可以在不重新启动JVM或需要额外的代码更改的情况下实时地对问题进行故障排除。
 
 
+<!-- Opensource1-结束 -->
+
+
 ==============================================
 
-<!-- Opensource结束 -->
+
+
+<!-- Solution-开始 -->
+
+
+<!-- Solution-结束 -->
 
 ==============================================
 
