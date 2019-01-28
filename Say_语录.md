@@ -3,6 +3,15 @@
 2019-1-24 10:33:24
 
 ## list
+
+
+//
+> ----------Codelf - Visual Studio Marketplace
+> https://marketplace.visualstudio.com/items?itemName=unbug.codelf
+计算机科学只有两件难事：缓存失效和命名事物.-- Phil Karlton
+
+
+
 > ----------【霓虹深处】多学一点知识，就少写一行代码，学无止境，加油！ - CSDN博客
 > https://blog.csdn.net/qq_36850813
 
@@ -48,6 +57,8 @@
 
 
 ### 阿里老话）态度
+
+越努力，越幸运。
 
 > * 不要把自己太当回事儿，也别把自己太不当回事儿。
 

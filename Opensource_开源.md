@@ -1,6 +1,18 @@
-**目录：**
+## **目录：**
 
 
+- [**目录：**](#%E7%9B%AE%E5%BD%95)
+- [开源方法论](#%E5%BC%80%E6%BA%90%E6%96%B9%E6%B3%95%E8%AE%BA)
+- [awesome汇总](#awesome%E6%B1%87%E6%80%BB)
+  - [awesome-list](#awesome-list)
+  - [awesome-Java](#awesome-java)
+  - [awesome-微信开发](#awesome-%E5%BE%AE%E4%BF%A1%E5%BC%80%E5%8F%91)
+  - [awesome-Linux](#awesome-linux)
+  - [awesome-数据科学](#awesome-%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6)
+  - [awesome-算法](#awesome-%E7%AE%97%E6%B3%95)
+  - [awesome-book](#awesome-book)
+  - [awesome-tools](#awesome-tools)
+  - [awesome-前端](#awesome-%E5%89%8D%E7%AB%AF)
 - [1）SQL数据库相关(ORM/DBA...)](#1sql%E6%95%B0%E6%8D%AE%E5%BA%93%E7%9B%B8%E5%85%B3ormdba)
   - [数据库客户端](#%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AE%A2%E6%88%B7%E7%AB%AF)
   - [数据库服务器](#%E6%95%B0%E6%8D%AE%E5%BA%93%E6%9C%8D%E5%8A%A1%E5%99%A8)
@@ -19,7 +31,6 @@
     - [运维/监控](#%E8%BF%90%E7%BB%B4%E7%9B%91%E6%8E%A7)
 - [3）Java相关](#3java%E7%9B%B8%E5%85%B3)
   - [特别推荐](#%E7%89%B9%E5%88%AB%E6%8E%A8%E8%8D%90)
-  - [awesome-java](#awesome-java)
   - [源码学习](#%E6%BA%90%E7%A0%81%E5%AD%A6%E4%B9%A0)
   - [教育培训](#%E6%95%99%E8%82%B2%E5%9F%B9%E8%AE%AD)
   - [开发手册](#%E5%BC%80%E5%8F%91%E6%89%8B%E5%86%8C)
@@ -36,6 +47,7 @@
     - [微服务](#%E5%BE%AE%E6%9C%8D%E5%8A%A1)
   - [tools-代码生成器](#tools-%E4%BB%A3%E7%A0%81%E7%94%9F%E6%88%90%E5%99%A8)
   - [tools-监控](#tools-%E7%9B%91%E6%8E%A7)
+  - [Java8](#java8)
   - [JVM](#jvm)
   - [JVM语言](#jvm%E8%AF%AD%E8%A8%80)
     - [Groovy](#groovy)
@@ -54,7 +66,6 @@
 - [前端](#%E5%89%8D%E7%AB%AF)
 - [中小团队技术选型](#%E4%B8%AD%E5%B0%8F%E5%9B%A2%E9%98%9F%E6%8A%80%E6%9C%AF%E9%80%89%E5%9E%8B)
 - [开源网站](#%E5%BC%80%E6%BA%90%E7%BD%91%E7%AB%99)
-- [doc文档](#doc%E6%96%87%E6%A1%A3)
 - [22待整理](#22%E5%BE%85%E6%95%B4%E7%90%86)
 
 ===============================================
@@ -66,7 +77,7 @@
 > ----------当当架构部总监张亮：玩转Java开源项目 - 掘金
 > https://juejin.im/post/5987e4b26fb9a03c3c14bb57
 
-
+<br>[⬆ 回到顶部](#目录)
 
 
 ## awesome汇总
@@ -97,9 +108,18 @@
 
 
 
+<br>[⬆ 回到顶部](#目录)
 
 
 ### awesome-Java
+
+//
+> ----------Java开发社区 | 码库CTOLib
+> https://www.ctolib.com/java/
+
+
+
+
 //
 > ----------crossoverJie/JCSprout: 👨‍🎓 Java Core Sprout : basic, concurrent, algorithm
 > https://github.com/crossoverJie/JCSprout
@@ -193,6 +213,7 @@ Java经过将近**20年**的发展壮大，框架体系已经丰满俱全；从�
 > https://github.com/graphql-java/awesome-graphql-java
 
 
+<br>[⬆ 回到顶部](#目录)
 
 
 
@@ -209,6 +230,7 @@ Java经过将近**20年**的发展壮大，框架体系已经丰满俱全；从�
 > https://github.com/justjavac/awesome-wechat-weapp
 
 
+<br>[⬆ 回到顶部](#目录)
 
 
 
@@ -232,6 +254,7 @@ Java经过将近**20年**的发展壮大，框架体系已经丰满俱全；从�
 > https://github.com/luong-komorebi/Awesome-Linux-Software
 
 
+<br>[⬆ 回到顶部](#目录)
 
 
 
@@ -248,6 +271,9 @@ Java经过将近**20年**的发展壮大，框架体系已经丰满俱全；从�
 > ----------bulutyazilim/awesome-datascience: An awesome Data Science repository to learn and apply for real world problems.
 > https://github.com/bulutyazilim/awesome-datascience
 
+<br>[⬆ 回到顶部](#目录)
+
+
 ### awesome-算法
 
 //
@@ -255,10 +281,24 @@ Java经过将近**20年**的发展壮大，框架体系已经丰满俱全；从�
 > https://github.com/apachecn/awesome-algorithm
 LeetCode, HackRank, 剑指offer, classic algorithm implementation
 
+<br>[⬆ 回到顶部](#目录)
+
+
 ### awesome-book
 //
 > ----------jobbole/awesome-programming-books: 经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等
 > https://github.com/jobbole/awesome-programming-books
+
+<br>[⬆ 回到顶部](#目录)
+
+
+### awesome-tools
+
+//
+> ----------viatsko/awesome-vscode: 🎨 A curated list of delightful VS Code packages and resources.
+> https://github.com/viatsko/awesome-vscode
+
+<br>[⬆ 回到顶部](#目录)
 
 
 
@@ -292,6 +332,7 @@ LeetCode, HackRank, 剑指offer, classic algorithm implementation
 > https://github.com/rohan-paul/Awesome-JavaScript-Interviews
 
 
+<br>[⬆ 回到顶部](#目录)
 
 
 
@@ -325,6 +366,7 @@ http://blog.51cto.com/12042068/2115077
 > https://cloud.tencent.com/developer/article/1176452
 
 
+<br>[⬆ 回到顶部](#目录)
 
 
 
@@ -341,6 +383,7 @@ H2采用Java开发的免费SQL数据库
 > Realm是一个用来**替代sqlite**的解决方案，它比sqlite更轻量，同时速度更快，而且使用起来很简单顺手，还跨平台，目前已支持Java，Objective C，Swift，React-Native，Xamarin这五种语言。
 
 
+<br>[⬆ 回到顶部](#目录)
 
 
 ### 数据生成(mock)
@@ -349,6 +392,7 @@ H2采用Java开发的免费SQL数据库
 > https://www.ctolib.com/ysc-data-generator.html
 数据生成器 -- 如果你在从事大数据BI的工作，想对比一下MySQL、GreenPlum、Elasticsearch、Hive、Presto、Impala、Drill、HAWQ、Druid、Pinot、Kylin等不同实现方案之间的表现，那你就需要一份标准的数据进行测试，这个开源项目就是为了生成这样的标准数据。
 
+<br>[⬆ 回到顶部](#目录)
 
 
 
@@ -383,6 +427,7 @@ H2采用Java开发的免费SQL数据库
 (5)查看集群**库元信息**(库数据量，表数量，字符集，所属项目，归属人等) 
 (6)查看**表元信息**(表数据量，行数，索引大小，自增主键使用率等)
 
+<br>[⬆ 回到顶部](#目录)
 
 
 #### 自助权限申请
@@ -515,6 +560,7 @@ https://github.com/google/data-transfer-project
 
 
 
+<br>[⬆ 回到顶部](#目录)
 
 
 #### 数据库迁移/同步
@@ -548,6 +594,7 @@ https://github.com/google/data-transfer-project
 
 
 
+<br>[⬆ 回到顶部](#目录)
 
 
 
@@ -581,6 +628,8 @@ jedipus 是一个 Redis 3.2 + Java 8 客户端，用于管理客户端对象池�
 > https://www.ctolib.com/sudo168-redis-helper.html
 redisHelper.cmd().set("name", "lisi");
 
+<br>[⬆ 回到顶部](#目录)
+
 
 ##### 两级缓存框架
 
@@ -589,6 +638,7 @@ redisHelper.cmd().set("name", "lisi");
 J2Cache 是 OSChina 目前正在使用的两级缓存框架（要求至少 Java 8）。第一级缓存使用内存(同时支持 Ehcache 2.x、Ehcache 3.x 和 Caffeine)，第二级缓存使用 Redis(推荐)/Memcached 。 由于大量的缓存读取会导致 L2 的网络成为整个系统的瓶颈，因此 L1 的目标是降低对 L2 的读取次数。 该缓存框架主要用于集群环境中。单机也可使用，用于避免应用重启导致的缓存冷启动后对后端业务的冲击。
 
 
+<br>[⬆ 回到顶部](#目录)
 
 
 #### 服务器
@@ -598,6 +648,7 @@ J2Cache 是 OSChina 目前正在使用的两级缓存框架（要求至少 Java 
 > ----------**Redis集群**方案之使用豌豆荚Codis搭建（待实践） - EasonJim - 博客园
 > https://www.cnblogs.com/EasonJim/p/7630405.html
 
+<br>[⬆ 回到顶部](#目录)
 
 
 
@@ -624,6 +675,7 @@ CacheCloud提供一个Redis云管理平台：实现多种类型(Redis Standalone
 一个简单好用的redis缓存图形化管理工具，包含redis的5种数据类型的CRUD操作; 由于该系统是在大名鼎鼎的JeeSite基础之上开发的，所有保留了原系统的用户/角色/权限/菜单等模块.
 
 
+<br>[⬆ 回到顶部](#目录)
 
 
 
@@ -639,6 +691,7 @@ CacheCloud提供一个Redis云管理平台：实现多种类型(Redis Standalone
 
 > 分布式开源程序：mall，zheng
 
+<br>[⬆ 回到顶部](#目录)
 
 
 ### 源码学习
@@ -665,12 +718,17 @@ spring boot 实践学习案例，是 spring boot 初学者及核心技术巩固�
 这些问题分为不同的难度等级，用*表示，一个星号表示在15分钟内解决，2个星号可能需要30-69分钟，而最难的3个星号，则需要更长时间（90分钟左右），如果你能在限定的时间内使用JAVA8的特性解决所有的问题，那说明你对JAVA8的掌握程度已经非常牢固了。如果你没办法解决所有问题也没关系，你可以查看作者提供的代码示例，这也是你学习JAVA8很好的途径。
 
 
+<br>[⬆ 回到顶部](#目录)
+
+
 ### 教育培训
 
 //
 > ----------开发10年，全记在这本Java进阶宝典里了 - 简书
 > https://www.jianshu.com/p/428251ede1aa
 ![enter image description here](https://upload-images.jianshu.io/upload_images/10299630-b467fc172d9be65a.jpg?imageMogr2/auto-orient/strip|imageView2/2/w/840/format/webp)
+
+<br>[⬆ 回到顶部](#目录)
 
 
 ### 开发手册
@@ -679,6 +737,8 @@ spring boot 实践学习案例，是 spring boot 初学者及核心技术巩固�
 
 > 唯品会Java开发手册，结合唯品会的内部经验，参考《阿里巴巴Java开发手册》《Clean Code》、《Effective Java》等重磅资料进行了大幅定制，包含核心基础类库VJKit ，问题排查工具VJMap 和 VJTop 三部分。
 https://github.com/vipshop/vjtools
+
+<br>[⬆ 回到顶部](#目录)
 
 
 ### Lib
@@ -691,6 +751,7 @@ Strmen-java是一个字符串处理工具，你可以通过maven将它引入到�
 > NullAway 是 Uber 开源的一款帮助你清除 Java 代码中的 NullPointerException（NPE）的工具，快速且实用。NullAway 类似于 Kotlin 和 Swift 语言中的基于类型的可空性检查，能显着提高开发人员的生产力，同时也满足高要求的安全检查需求。
 https://github.com/uber/NullAway
 
+<br>[⬆ 回到顶部](#目录)
 
 
 ### Java数据库开发
@@ -700,6 +761,8 @@ https://github.com/uber/NullAway
 > 【list】----------数据库相关工具 - Java开发社区 | CTOLib码库
 > https://www.ctolib.com/java/categories/java-database.html
 数据库相关工具 - **简化**数据库交互的Java相关工具
+
+
 
 
 #### ORM
@@ -774,6 +837,7 @@ mybatis文件在线自动生成器-让机械无味的mybatis文件编写工作�
         </plugin>
 ```
 
+<br>[⬆ 回到顶部](#目录)
 
 
 ##### Stream API方式操作数据库
@@ -812,6 +876,7 @@ List<User> users = select().from(User.class).like("user_name", "%o%").all();
 
 ```
 
+<br>[⬆ 回到顶部](#目录)
 
 
 ##### 其它ORM框架
@@ -827,6 +892,7 @@ List<User> users = select().from(User.class).like("user_name", "%o%").all();
 > https://www.ctolib.com/jOOQ.html
 jOOQ从数据库产生Java代码，并允许您通过其流畅API构建类型安全的SQL查询。
 
+<br>[⬆ 回到顶部](#目录)
 
 
 
@@ -836,6 +902,7 @@ jOOQ从数据库产生Java代码，并允许您通过其流畅API构建类型安
 > https://www.ctolib.com/druid.html
 
 
+<br>[⬆ 回到顶部](#目录)
 
 
 #### 数据库中间件
@@ -856,6 +923,7 @@ Ctrip DAL是携程框架部开发的数据库访问框架，支持代码生成�
 分表分库的新思路——服务层Sharding框架，全SQL、全数据库兼容，ACID特性与原生数据库一致，能实现RR级别读写分离，无SQL解析性能更高
 
 
+<br>[⬆ 回到顶部](#目录)
 
 
 
@@ -870,12 +938,15 @@ Ctrip DAL是携程框架部开发的数据库访问框架，支持代码生成�
 
 > nutz，
 
+<br>[⬆ 回到顶部](#目录)
+
 
 #### 微服务
 
 > Nacos是一个易于使用的平台，旨在实现动态服务发现，配置和服务管理。它可以帮助开发者轻松构建云本机应用程序和微服务平台。
 https://github.com/alibaba/nacos
 
+<br>[⬆ 回到顶部](#目录)
 
 
 ### tools-代码生成器
@@ -884,6 +955,7 @@ https://github.com/alibaba/nacos
 > https://www.ctolib.com/EliMirren-Spring-generator.html
 
 
+<br>[⬆ 回到顶部](#目录)
 
 
 
@@ -916,7 +988,17 @@ Gumshoe是一个JAVA程序检测工具，它能帮助你跟踪程序的负载和
 LeakCanary - 内存泄漏监控
 内存泄漏一直是令Java程序员苦恼的问题，因为在你开发阶段很难察觉内存泄漏问题，而一旦到了生产环境，则可能因为它而造成严重的后果。LeakCanary是一个内存泄漏检查工具，只需要像下面这样简单加入LeakCanary，它便能全程监控你的应用，并在出现内存泄漏时给你发出警告。LeakCanary同时支持Android和Java，下面是在Android应用中使用的例子。
 
+<br>[⬆ 回到顶部](#目录)
 
+
+### Java8
+
+//
+> ----------biezhi/30-seconds-of-java8: 🎱 30 seconds to collect useful Java 8 snippet.
+> https://github.com/biezhi/30-seconds-of-java8#%E7%9B%AE%E5%BD%95
+
+
+<br>[⬆ 回到顶部](#目录)
 
 
 ### JVM
@@ -942,6 +1024,8 @@ SJK（Java瑞士军刀）是一个用于JVM监控、排错以及调优的工具�
 https://github.com/oracle/graal
 
 
+<br>[⬆ 回到顶部](#目录)
+
 
 ### JVM语言
 
@@ -950,8 +1034,15 @@ https://github.com/oracle/graal
 
 #### Groovy
 
+<br>[⬆ 回到顶部](#目录)
+
+
+
 
 #### Kotlin
+
+<br>[⬆ 回到顶部](#目录)
+
 
 #### Cloujure
 
@@ -959,6 +1050,7 @@ https://github.com/oracle/graal
 > https://www.ctolib.com/toucan.html
 
 
+<br>[⬆ 回到顶部](#目录)
 
 
 =================================================================
@@ -976,11 +1068,18 @@ https://github.com/oracle/graal
 先介绍下什么是Jenkins 2.0，**Jenkins 2.0的精髓是Pipeline as Code**，是帮助Jenkins实现CI到CD转变的重要角色。什么是Pipeline，简单来说，就是一套运行于Jenkins上的工作流框架，将原本独立运行于单个或者多个节点的任务连接起来，实现单个任务难以完成的复杂发布流程。Pipeline的实现方式是一套Groovy DSL，任何发布流程都可以表述为一段Groovy脚本，并且Jenkins支持从代码库直接读取脚本，从而实现了Pipeline as Code的理念。 Pipeline的几个基本概念： Stage: 阶段，一个Pipeline可以划分为若干个Stage，每个Stage代表一组操作。注意，Stage是一个逻辑分组的概念，可以跨多个Node。 Node: 节点，一个Node就是一个Jenkins节点，或者是Master，或者是Agent，是执行Step的具体运行期环境。 Step: 步骤，Step是最基本的操作单元，小到创建一个目录，大到构建一个Docker镜像，由各类Jenkins Plugin提供。 
 
 
+<br>[⬆ 回到顶部](#目录)
+
+
 #### 发布/部署
 
 > ----------walle 2.0 瓦力 | walle 瓦力 - 部署系统
 > http://walle-web.io/docs/
 walle 让用户代码发布终于可以不只能选择 jenkins！支持各种web代码发布，php、java、python、go等代码的发布、回滚可以通过web来一键完成。walle 一个可自由配置项目，更人性化，高颜值，支持git、多用户、多语言、多项目、多环境同时部署的开源上线部署系统。
+
+<br>[⬆ 回到顶部](#目录)
+
+
 
 #### 监控
 
@@ -993,6 +1092,7 @@ walle 让用户代码发布终于可以不只能选择 jenkins！支持各种web
 > https://www.jianshu.com/p/afb308418500
 
 
+<br>[⬆ 回到顶部](#目录)
 
 
 
@@ -1044,6 +1144,9 @@ varian是我们基于Python3编写的一套部署程序，处在整个部署系�
 线上用到了多云环境，一部分线上项目已经使用了基于k8s的容器编排，当然还有一部分是我上边介绍的纯Docker环境
 
 
+<br>[⬆ 回到顶部](#目录)
+
+
 #### 配置中心
 
 > ----------中小团队落地配置中心详解 - 云+社区 - 腾讯云
@@ -1055,6 +1158,7 @@ varian是我们基于Python3编写的一套部署程序，处在整个部署系�
 > //配置中心架构图:
 ![配置中心架构图](https://ask.qcloudimg.com/http-save/yehe-2933803/vctroqw9cp.png?imageView2/2/w/1620)
 
+<br>[⬆ 回到顶部](#目录)
 
 
 
@@ -1080,6 +1184,7 @@ Tablesaw - “大数据”
 > ----------Presto：针对大数据的分布式SQL查询引擎 - Java开发社区 | CTOLib码库
 > https://www.ctolib.com/presto.html
 
+<br>[⬆ 回到顶部](#目录)
 
 
 
@@ -1090,6 +1195,7 @@ Tablesaw - “大数据”
 DataX 是阿里巴巴集团内被广泛使用的离线数据同步工具/平台，实现包括 MySQL、Oracle、HDFS、Hive、OceanBase、HBase、OTS、ODPS 等各种异构数据源之间高效的数据同步功能。
 
 
+<br>[⬆ 回到顶部](#目录)
 
 
 
@@ -1100,6 +1206,7 @@ DataX 是阿里巴巴集团内被广泛使用的离线数据同步工具/平台�
 HanLP是由一系列模型与算法组成的Java工具包，目标是普及自然语言处理在生产环境中的应用。HanLP具备功能完善、性能高效、架构清晰、语料时新、可自定义的特点。在提供丰富功能的同时，HanLP内部模块坚持低耦合、模型坚持惰性加载、服务坚持静态提供、词典坚持明文发布，使用非常方便，同时自带一些语料处理工具，帮助用户训练自己的模型。
 
 
+<br>[⬆ 回到顶部](#目录)
 
 
 
@@ -1109,6 +1216,8 @@ HanLP是由一系列模型与算法组成的Java工具包，目标是普及自�
 ## 前端
 
 > SmartTable 是一套数据源使用 Ajax 获取数据，并展现成表格与图像的形式，并且支持下载（思路源于talkingdata）的智能表格。开源引入：Bootstrap 3.0，Bootstrap respond (IE解决方案)，Jquery 11.02，dataTables，echarts，table2CSV
+
+<br>[⬆ 回到顶部](#目录)
 
 
 =======================================================
@@ -1128,6 +1237,11 @@ HanLP是由一系列模型与算法组成的Java工具包，目标是普及自�
 中小型研发团队很多，而社区在中小型研发团队架构实践方面的探讨却很少。中小型研发团队特别是 50 至 200 人的研发团队，在早期的**业务探索**阶段，更多关注**业务逻辑**，快速迭代以验证商业模式，很少去关注技术架构。这时如果继续按照原有的架构及研发模式，会出现大量的问题，再也无法玩下去了。能不能有一套可直接落地、基于开源、成本低，可快速搭建的中间件及架构升级方案呢？
 
 
+<br>[⬆ 回到顶部](#目录)
+
+
+
+
 ===============================================
 
 
@@ -1135,6 +1249,9 @@ HanLP是由一系列模型与算法组成的Java工具包，目标是普及自�
 
 > ----------CTOLib码库
 > https://www.ctolib.com/
+
+<br>[⬆ 回到顶部](#目录)
+
 
 
 ## 22待整理
@@ -1170,5 +1287,6 @@ Design patterns 是程序员在设计应用程序或系统时可用来解决常�
 该项目是一系列小而专注的教程，每个教程都涵盖一个明确的开发领域。大多数教程项目都专注于Spring Framework（和Spring Security）。以下技术是重点：core Java，Jackson，HttpClient，Guava。
 。。Arthas旨在帮助开发人员解决Java应用程序的生产问题，无需修改代码或重新启动服务器。有了Arthas，你就可以在不重新启动JVM或需要额外的代码更改的情况下实时地对问题进行故障排除。
 
+<br>[⬆ 回到顶部](#目录)
 
 ==============================================
