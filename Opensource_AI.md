@@ -12,8 +12,8 @@
       - [Lib库](#lib%E5%BA%93)
       - [知识图谱](#%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1)
     - [AI算法](#ai%E7%AE%97%E6%B3%95)
-      - [吴恩达](#%E5%90%B4%E6%81%A9%E8%BE%BE)
       - [==教程](#%E6%95%99%E7%A8%8B-1)
+      - [吴恩达](#%E5%90%B4%E6%81%A9%E8%BE%BE)
       - [book](#book)
       - [List](#list)
       - [好文](#%E5%A5%BD%E6%96%87)
@@ -308,23 +308,6 @@ https://stanfordnlp.github.io/stanfordnlp/index.html
 
 
 
-
-#### 吴恩达
-
-//
-> ----------大数据文摘
-> https://mp.weixin.qq.com/s?__biz=MjM5MTQzNzU2NA==&mid=2651659326&idx=2&sn=3400e9b8c7bbf091ded21aa2392afa5f&chksm=bd4c3bad8a3bb2bb0ae421e6467fab121d50a9d3ef737913ecc17b16f90aa73dcca914afe750&mpshare=1&scene=1&srcid=0201xh0xeQGHavhVNNi0ciiY#rd
-吴恩达刚刚注册了一个微信公众号，发布新书与课程中文版
-
-人工智能内容领域的大IP吴恩达老师今天刚刚建立了自己的首个官方微信公众号吴恩达deeplearningai，专注产生和传播人工智能的原创内容。
-
-//
-> ----------机器之心
-> https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650738808&idx=1&sn=950b3a51af28a0434018343a2810bc82&chksm=871ad406b06d5d1000a246ea73acb9bec34e9b1de8f19fc90e473f071a2c40667676a174eb1b&mpshare=1&scene=1&srcid=0201qRABX3a70AFLqpOCG68U#rd
-这是一份优美的信息图，吴恩达点赞的deeplearning.ai课程总结
-
-
-
 #### ==教程
 
 //
@@ -352,6 +335,23 @@ GitHub标星2600，从零开始的深度学习实用教程 | PyTorch官方推荐
 项目出自一位印度少年之手，基于PyTorch。少年为向往机器学习的小伙伴们，指引了一条从萌新到老司机的进阶之路。
 
 新手可以从基础的基础开始学起，不止线性规划和随机森林，连笔记本怎么用，NumPy等重要的Python库怎么用，都有手把手教程。
+
+
+
+
+#### 吴恩达
+
+//
+> ----------大数据文摘
+> https://mp.weixin.qq.com/s?__biz=MjM5MTQzNzU2NA==&mid=2651659326&idx=2&sn=3400e9b8c7bbf091ded21aa2392afa5f&chksm=bd4c3bad8a3bb2bb0ae421e6467fab121d50a9d3ef737913ecc17b16f90aa73dcca914afe750&mpshare=1&scene=1&srcid=0201xh0xeQGHavhVNNi0ciiY#rd
+吴恩达刚刚注册了一个微信公众号，发布新书与课程中文版
+
+人工智能内容领域的大IP吴恩达老师今天刚刚建立了自己的首个官方微信公众号吴恩达deeplearningai，专注产生和传播人工智能的原创内容。
+
+//
+> ----------机器之心
+> https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650738808&idx=1&sn=950b3a51af28a0434018343a2810bc82&chksm=871ad406b06d5d1000a246ea73acb9bec34e9b1de8f19fc90e473f071a2c40667676a174eb1b&mpshare=1&scene=1&srcid=0201qRABX3a70AFLqpOCG68U#rd
+这是一份优美的信息图，吴恩达点赞的deeplearning.ai课程总结
 
 
 
