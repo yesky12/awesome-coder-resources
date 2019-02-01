@@ -1,21 +1,23 @@
-**目录：**
-- [AI算法](#ai%E7%AE%97%E6%B3%95)
-  - [List](#list)
-    - [好文](#%E5%A5%BD%E6%96%87)
-    - [book](#book)
-    - [公司](#%E5%85%AC%E5%8F%B8)
-    - [教程](#%E6%95%99%E7%A8%8B)
-    - [吴恩达](#%E5%90%B4%E6%81%A9%E8%BE%BE)
-  - [NLP](#nlp)
-    - [业界](#%E4%B8%9A%E7%95%8C)
-    - [公司](#%E5%85%AC%E5%8F%B8-1)
-    - [Book](#book)
-    - [演讲](#%E6%BC%94%E8%AE%B2)
-    - [教程](#%E6%95%99%E7%A8%8B-1)
-    - [Github](#github)
-    - [Lib库](#lib%E5%BA%93)
-    - [知识图谱](#%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1)
-    - [医学影像数据集](#%E5%8C%BB%E5%AD%A6%E5%BD%B1%E5%83%8F%E6%95%B0%E6%8D%AE%E9%9B%86)
+# 目录
+
+- [目录](#%E7%9B%AE%E5%BD%95)
+  - [AI算法](#ai%E7%AE%97%E6%B3%95)
+    - [List](#list)
+      - [好文](#%E5%A5%BD%E6%96%87)
+      - [book](#book)
+      - [公司](#%E5%85%AC%E5%8F%B8)
+      - [教程](#%E6%95%99%E7%A8%8B)
+      - [吴恩达](#%E5%90%B4%E6%81%A9%E8%BE%BE)
+    - [NLP](#nlp)
+      - [业界](#%E4%B8%9A%E7%95%8C)
+      - [公司](#%E5%85%AC%E5%8F%B8-1)
+      - [Book](#book)
+      - [演讲](#%E6%BC%94%E8%AE%B2)
+      - [教程](#%E6%95%99%E7%A8%8B-1)
+      - [Github](#github)
+      - [Lib库](#lib%E5%BA%93)
+      - [知识图谱](#%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1)
+      - [医学影像数据集](#%E5%8C%BB%E5%AD%A6%E5%BD%B1%E5%83%8F%E6%95%B0%E6%8D%AE%E9%9B%86)
 
 
 ==========================================================
@@ -324,9 +326,16 @@ RESP API 模式， SDK 与之前调用接口完全兼容
 //
 > ----------liuhuanyong/QASystemOnMedicalKG: A tutorial and implement of disease centered Medical knowledge graph and qa system based on it。知识图谱构建，自动问答，基于kg的自动问答。以疾病为中心的一定规模医药领域知识图谱，并以该知识图谱完成自动问答与分析服务。
 > https://github.com/liuhuanyong/QASystemOnMedicalKG?from=singlemessage
-A tutorial and implement of disease centered Medical knowledge graph and qa system based on it。知识图谱构建，自动问答，基于kg的自动问答。以疾病为中心的一定规模医药领域知识图谱，并以该知识图谱完成自动问答与分析服务。
+> 
+本项目立足医药领域，以垂直型医药网站为数据来源，以疾病为核心，构建起一个包含7类规模为4.4万的知识实体，11类规模约30万实体关系的知识图谱。 本项目将包括以下两部分的内容：
+基于垂直网站数据的医药知识图谱构建
+基于医药知识图谱的自动问答
 
+2、本项目以业务驱动，构建医疗知识图谱，知识schema设计基于所采集的结构化数据生成(对网页结构化数据进行xpath解析)。
+3、本项目以neo4j作为存储，并基于传统规则的方式完成了知识问答，并最终以cypher查询语句作为问答搜索sql，支持了问答服务。
 
+项目最终效果:
+![enter image description here](https://github.com/liuhuanyong/QABasedOnMedicalKnowledgeGraph/raw/master/img/chat2.png)
 
 <br>[⬆ 回到顶部](#目录)
 
