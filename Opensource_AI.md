@@ -253,7 +253,8 @@ RESP API 模式， SDK 与之前调用接口完全兼容
 //
 > ----------深度学习自然语言处理
 > https://mp.weixin.qq.com/s?__biz=MzI3ODgwODA2MA==&mid=2247486201&idx=2&sn=bfb9ba40ad0c5b5ff6ade0a88e178b63&chksm=eb501e6adc27977c0b35ce4c727dcf1b0ffc7f3f1b4b318ec5c8535188cad4d84f2b1ad1bf76&mpshare=1&scene=1&srcid=01215F9CyqRU4wbHrAp6ffuH#rd
-微软亚洲研究院在促进 NLP 的普及与发展以及人才培养方面取得了非凡的成就。共计发表了 100 余篇 ACL 大会文章，出版了**《机器翻译》和《智能问答》**两部著作
+
+微软亚洲研究院在促进 NLP 的普及与发展以及人才培养方面取得了非凡的成就。共计发表了 100 余篇 ACL 大会文章，**出版了《机器翻译》和《智能问答》两部著作**
 
 <br>[⬆ 回到顶部](#目录)
 
