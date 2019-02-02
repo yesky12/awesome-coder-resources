@@ -30,6 +30,12 @@
 
 #### ==教程
 
+//
+> ----------深度学习与自然语言处理 - 简书
+> https://www.jianshu.com/p/e065ad0c2631
+这是一门关于自然语言处理的高阶课程，由牛津大学和谷歌DeepMind（AlphaGo的开发机构）联合开设，由Phil Blunsom主讲，同时邀请到多位来自DeepMind和NVIDIA的业界讲师来做客座讲座。这是牛津大学计算机系2017年春季学期最新课程，由​大数据文摘进行汉化。
+
+课程所有资料（视频、讲义、作业）免费发布于GitHub，https://github.com/oxford-cs-deepnlp-2017/lectures，大数据文摘已联系课程主讲人取得翻译授权。
 
 
 //
