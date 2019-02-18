@@ -4,6 +4,11 @@
 假设你要计算的是小小亮FLY的粉丝
 所有以下都是爬虫爬取的步骤过程，无需人工参与，首先看看如何获得粉丝：
 
+获取粉丝的接口：
+获取粉丝接口 https://www.jianshu.com/users/[用户标识]/followers
+分页接口：https://www.jianshu.com/users/[用户标识]/followers?page=2
+“用户标识”每个用户都不一样，需要自己去报文中找。
+
 
 
 //
