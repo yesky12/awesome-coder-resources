@@ -1,5 +1,7 @@
 
 - [C早报](#c%E6%97%A9%E6%8A%A5)
+  - [今日早报（2月20日）](#%E4%BB%8A%E6%97%A5%E6%97%A9%E6%8A%A52%E6%9C%8820%E6%97%A5)
+    - [阿里老话： 四边行动：边学习，边思考，边总结，边运用。](#%E9%98%BF%E9%87%8C%E8%80%81%E8%AF%9D-%E5%9B%9B%E8%BE%B9%E8%A1%8C%E5%8A%A8%E8%BE%B9%E5%AD%A6%E4%B9%A0%E8%BE%B9%E6%80%9D%E8%80%83%E8%BE%B9%E6%80%BB%E7%BB%93%E8%BE%B9%E8%BF%90%E7%94%A8)
   - [今日早报（2月19日）](#%E4%BB%8A%E6%97%A5%E6%97%A9%E6%8A%A52%E6%9C%8819%E6%97%A5)
     - [阿里老话：眼光、实力和胸怀，三个关键字，涵盖了做人与做事。](#%E9%98%BF%E9%87%8C%E8%80%81%E8%AF%9D%E7%9C%BC%E5%85%89%E5%AE%9E%E5%8A%9B%E5%92%8C%E8%83%B8%E6%80%80%E4%B8%89%E4%B8%AA%E5%85%B3%E9%94%AE%E5%AD%97%E6%B6%B5%E7%9B%96%E4%BA%86%E5%81%9A%E4%BA%BA%E4%B8%8E%E5%81%9A%E4%BA%8B)
     - [乐视影业首次被列入失信名单 一众明星被套牢](#%E4%B9%90%E8%A7%86%E5%BD%B1%E4%B8%9A%E9%A6%96%E6%AC%A1%E8%A2%AB%E5%88%97%E5%85%A5%E5%A4%B1%E4%BF%A1%E5%90%8D%E5%8D%95-%E4%B8%80%E4%BC%97%E6%98%8E%E6%98%9F%E8%A2%AB%E5%A5%97%E7%89%A2)
@@ -234,6 +236,53 @@
 ------------------------------------
 
 ## C早报
+
+
+### 今日早报（2月20日）
+
+#### 阿里老话： 四边行动：边学习，边思考，边总结，边运用。
+
+========================
+【行业动态】
+裁员风暴下的比特大陆：年净利润近50亿，估值超150亿美元
+https://m.21jingji.com/article/20190219/herald/e87b6b60a1a37d225ccea883f4ac02ec.html
+
+传网易考拉拟收购亚马逊中国海外购 或采取换股方式
+https://m.21jingji.com/article/20190219/herald/77fd798a8e00becad32a144abbe3f9b3.html
+
+京东确认高管末尾淘汰：正推进“小集团，大业务”转型
+https://m.21jingji.com/article/20190219/herald/3d5d18bd87e91277939b2952502a96f3.html
+
+继马化腾之后马云也看中了这家券商！阿里入股中金公司占比4.84%
+https://m.21jingji.com/article/20190219/herald/134d5a7bfcac33a19d1f2b94620d40fd.html
+
+谷歌拟收购云服务创业公司Alooma以挑战亚马逊和微软
+https://tech.sina.com.cn/it/2019-02-20/doc-ihrfqzka7346022.shtml?cre=tianyi&mod=pctech&loc=7&r=25&rfunc=7&tj=none&tr=25
+
+不再与美团饿了么竞争？滴滴外卖裁员并出海运营
+http://tech.163.com/19/0219/12/E8CKVH1U00097U7R.html
+
+谷歌发邀请函 拟于3月19日举行神秘游戏服务发布会
+http://tech.163.com/19/0220/07/E8EM0STF00097U7R.html
+
+【延伸阅读】
+麦肯锡重磅报告：5G发展没有想象中的那么快
+https://36kr.com/p/5178585.html
+
+亚马逊不足惧：沃尔玛四季报电商收入大增40%，股价创三个月新高
+https://36kr.com/p/5178582.html
+
+苏宁搅局IoT，对手是格力，更是小米
+https://36kr.com/p/5178104.html
+
+抖音小游戏来了：开发者分成更多，需自备短视频，它真的能挑战微信么？
+https://36kr.com/p/5178188.html
+
+【英文阅读】
+Jack Ma's African entrepreneurs prize to open for enrollment
+http://www.chinadaily.com.cn/a/201902/19/WS5c6bcbe5a3106c65c34ea28b.html
+
+阿里老话： 四边行动：边学习，边思考，边总结，边运用。
 
 
 ### 今日早报（2月19日）
