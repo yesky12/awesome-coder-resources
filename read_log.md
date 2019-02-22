@@ -1,21 +1,51 @@
 
 
-## 2019-2月
+## 2019-2月阅读日志
 
-### 2019-2-22
+
+### bing电脑屏保图片【跟着bing的电脑屏保去旅行】
 
 //
-> ----------一个抑郁症患者，是怎么一路跌宕地活下来的 - 简书
-> https://www.jianshu.com/p/d67e70e5a7de?utm_medium=index-banner&utm_source=desktop
-自己得病之前，在谈及因抑郁症自杀的名人明星时，我都轻描淡写地说着：“太消极了！”“开心点不好吗？”“这世界这么多未知的美好没有体验，怎么舍得去死呢？”“真的应该想开一点啊！”
+【洛兰岛, 丹麦，2019-2-22】https://cn.bing.com/search?q=洛兰岛%2C+丹麦&filters=IsConversation%3a%22True%22+BTEPKey:%22Encyclo_WL_TulipfieldLollandDK%22&ensearch=0&FORM=EMSDS0
+丹麦洛兰岛的郁金香园。
+丹麦第四大岛，富饶肥沃，地形平坦，被称为“煎饼岛”。尽管甜菜和郁金香是洛兰岛最主要的出口产品，但是岛上还有其他很多惊喜。洛兰岛还拥有成片林地、北欧最大野生动物园、度假胜地、中小型城镇以及中世纪生活历史博物馆。丹麦+洛兰岛+露天中世纪博物馆，除了重现中世纪文化，还声称拥有全球最大最古老的的抛石机。
 
-所以说：天道好轮回，苍天饶过谁。当我躺在精神病院里，亲人、朋友和以前的我一样，轻轻松松地说着“开心点哟”“坚强些”“一切都会好的”云云。
-
-我微笑点头，毕竟不能辜负别人的好意，但事实上，如果我可以遇见以前正常的自己，会对说那些话的自己说：站着说话不腰疼！你懂个屁！！！
-
+//
+【今日bing图片（武吉半岛, 巴厘岛）2019-2-21】
+https://cn.bing.com/search?q=武吉半岛%2C+巴厘岛&filters=IsConversation%3a%22True%22+BTEPKey:%22Encyclo_WL_ParaglidingBaliIndonesia%22&ensearch=0&FORM=EMSDS0
 
 
 ### 人物
+
+
+#### ==徐卓他们一家为保护丹顶鹤，为了这一初心，他们一家三代成为了丹顶鹤的守护神；
+
+//
+> ----------初心不改，你的初心还在么？ - 简书
+> https://www.jianshu.com/p/f87e65041ddd
+徐卓他们一家为保护丹顶鹤，为了这一初心，他们一家三代成为了丹顶鹤的守护神；
+
+//
+> ----------她，变成了一只丹顶鹤 - 简书
+> https://www.jianshu.com/p/15242fcf0855
+娟子对丹顶鹤有着深厚的感情。17岁的她，就毅然决定去扎龙湿地，和爸妈一起养鹤。由于娟子饲养的雏鹤，成活率达到百分之百。因此，扎龙保护区的孵鹤、养鹤、驯鹤技术开始蜚声中外。国际鹤类基金会主席dawei.乔治，阿其波前往参观后竖起大拇指连连称赞。徐秀娟也因此被媒体关注，被称为“中国第一位驯鹤姑娘”。
+
+
+
+#### 一直死咬着“转基因”食品不放的崔永元，开始撕F小刚，狂爆F冰冰猛料，捅开了影视圈的黑幕。
+//
+> ----------童心VS初心：追风少年和笃信者——六一时节闲话“初心”（下） - 简书
+> https://www.jianshu.com/p/be7d51252c68
+正如鲁迅1934年发表的《中国人失掉自信力了吗》中所言：
+
+“我们从古以来，就有埋头苦干的人，有拼命硬干的人，有为民请命的人，有舍身求法的人，……虽是等于为帝王将相作家谱的所谓“正史”，也往往掩不住他们的光耀，这就是中国的脊梁。”
+
+这一类的人们，就是现在也何尝少呢？他们有确信，不自欺。他们不忘初心，接续奋进。在前仆后继的战斗，他们从来不是一个人在战斗。
+
+最近，一直死咬着“转基因”食品不放的崔永元，开始撕F小刚，狂爆F冰冰猛料，捅开了影视圈的黑幕。
+
+
+
 //  
 > ----------2018年感动中国人物颁奖辞 - 简书
 > https://www.jianshu.com/p/690f8fcf37f6
@@ -213,7 +243,7 @@ def get_article_url(url,page):
     except requests.exceptions.ConnectionError:
         pass
 
-# get_article_url('http://www.jianshu.com/c/bDHhpK',2)
+ get_article_url('http://www.jianshu.com/c/bDHhpK',2)
 def get_reader_url(url):
     link_views = ['http://www.jianshu.com/users/{}/followers?page={}'.format(url.split('/')[-1],str(i)) for i in range(1,100)]
     for link_view in link_views:
@@ -228,7 +258,7 @@ def get_reader_url(url):
                 author_infos.insert_one({'author_name': author_name, 'author_url': 'http://www.jianshu.com' + authorurl})
         except requests.exceptions.ConnectionError:
             pass
-# get_reader_url('http://www.jianshu.com/u/7091a52ac9e5')   
+ get_reader_url('http://www.jianshu.com/u/7091a52ac9e5')   
 
 --
 运行入口
@@ -383,7 +413,8 @@ https://www.jianshu.com/p/182d903e764a
 所以，态度虽无所谓，立场却很重要
 怎么火，你有数了吗？
 
-//
+
+
 关于简书钻，关于万钻大咖，我用数据说事 - 简书
 https://www.jianshu.com/p/68cd47ac9e83
 --
@@ -594,3 +625,18 @@ https://www.jianshu.com/p/68cd47ac9e83
 > ----------《技术的本质：技术是什么，它是如何进化的》读书笔记 - 简书
 > https://www.jianshu.com/p/c09994e2e4c6
 
+
+### 2019-2-22
+
+//
+> ----------一个抑郁症患者，是怎么一路跌宕地活下来的 - 简书
+> https://www.jianshu.com/p/d67e70e5a7de?utm_medium=index-banner&utm_source=desktop
+自己得病之前，在谈及因抑郁症自杀的名人明星时，我都轻描淡写地说着：“太消极了！”“开心点不好吗？”“这世界这么多未知的美好没有体验，怎么舍得去死呢？”“真的应该想开一点啊！”
+
+所以说：天道好轮回，苍天饶过谁。当我躺在精神病院里，亲人、朋友和以前的我一样，轻轻松松地说着“开心点哟”“坚强些”“一切都会好的”云云。
+
+我微笑点头，毕竟不能辜负别人的好意，但事实上，如果我可以遇见以前正常的自己，会对说那些话的自己说：站着说话不腰疼！你懂个屁！！！
+
+
+
+## 11
