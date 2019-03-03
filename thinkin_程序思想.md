@@ -12,7 +12,7 @@
 
 ## 编程思想
 
-#### list
+##### list
 //
 > ----------GraphQL的前提 - 酷辣虫 - CoLaBug.com
 > https://www.colabug.com/4378062.html
@@ -50,7 +50,7 @@
 
 
 
-#### 设计思想
+##### 设计思想
 
 >**动态绑定**优于静态绑定
 
@@ -61,7 +61,7 @@
 
 
 
-#### 容器思想
+##### 容器思想
 
 
 > ----------运维咖啡吧
@@ -70,7 +70,7 @@
 
 
 
-#### Linux思想
+##### Linux思想
 
 > ----------Linux的哲学思想 - ZhengLiming - 博客园
 > https://www.cnblogs.com/ZhengLiming/p/5875049.html
@@ -84,7 +84,7 @@
 ==========
 
 
-###### 纯文本的格式
+####### 纯文本的格式
 > ----------Linux 中优秀的**文本化编辑思想**大碰撞（Markdown、LaTeX、MathJax） - 京山游侠 - 博客园
 > https://www.cnblogs.com/youxia/p/linux014.html
 

@@ -84,7 +84,7 @@
 
 
 
-### awesome-list
+#### awesome-list
 
 
 
@@ -110,7 +110,7 @@
 <br>[⬆ 回到顶部](#目录)
 
 
-### awesome-Java
+#### awesome-Java
 
 //
 > ----------Java开发社区 | 码库CTOLib
@@ -216,7 +216,7 @@ Java经过将近**20年**的发展壮大，框架体系已经丰满俱全；从�
 
 
 
-### awesome-微信开发
+#### awesome-微信开发
 
 //
 > ----------opendigg/awesome-github-wechat-weapp: 微信小程序开源项目库汇总
@@ -233,7 +233,7 @@ Java经过将近**20年**的发展壮大，框架体系已经丰满俱全；从�
 
 
 
-### awesome-Linux
+#### awesome-Linux
 
 //
 > ----------judasn/Linux-Tutorial: 《Java 程序员眼中的 Linux》
@@ -257,7 +257,7 @@ Java经过将近**20年**的发展壮大，框架体系已经丰满俱全；从�
 
 
 
-### awesome-数据科学
+#### awesome-数据科学
 
 //
 > ----------onurakpolat/awesome-bigdata: A curated list of awesome big data frameworks, ressources and other awesomeness.
@@ -273,7 +273,7 @@ Java经过将近**20年**的发展壮大，框架体系已经丰满俱全；从�
 <br>[⬆ 回到顶部](#目录)
 
 
-### awesome-算法
+#### awesome-算法
 
 //
 > ----------apachecn/awesome-algorithm: LeetCode, HackRank, 剑指offer, classic algorithm implementation
@@ -283,7 +283,7 @@ LeetCode, HackRank, 剑指offer, classic algorithm implementation
 <br>[⬆ 回到顶部](#目录)
 
 
-### awesome-book
+#### awesome-book
 //
 > ----------jobbole/awesome-programming-books: 经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等
 > https://github.com/jobbole/awesome-programming-books
@@ -291,7 +291,7 @@ LeetCode, HackRank, 剑指offer, classic algorithm implementation
 <br>[⬆ 回到顶部](#目录)
 
 
-### awesome-tools
+#### awesome-tools
 
 //
 > ----------viatsko/awesome-vscode: 🎨 A curated list of delightful VS Code packages and resources.
@@ -303,7 +303,7 @@ LeetCode, HackRank, 剑指offer, classic algorithm implementation
 
 
 
-### awesome-前端
+#### awesome-前端
 //
 > ----------jobbole/awesome-javascript-cn: JavaScript 资源大全中文版，内容包括：包管理器、加载器、测试框架、运行器、QA、MVC框架和库、模板引擎等
 > https://github.com/jobbole/awesome-javascript-cn
@@ -340,7 +340,7 @@ LeetCode, HackRank, 剑指offer, classic algorithm implementation
 
 
 
-### 数据库客户端
+#### 数据库客户端
 
 > ----------mysq数据库管理工具navicat基本使用方法 - 师者乐享 - 博客园
 > https://www.cnblogs.com/neuedu/p/5876874.html
@@ -358,7 +358,7 @@ navicat是mysql数据库的客户端查询管理工具
 免费的多平台数据库工具，适用于开发人员，SQL程序员，数据库管理员和分析人员。 支持任何具有JDBC驱动程序的数据库（这主要表示ANY数据库）。
 
 > DBeaver 是一个通用的数据库管理工具和 SQL 客户端，
-http://blog.51cto.com/12042068/2115077
+http://blog.51cto.com/12042068 * 2115077
 
 //
 > ----------通过数据库客户端界面工具**DBeaver连接Hive** - 云+社区 - 腾讯云
@@ -369,7 +369,7 @@ http://blog.51cto.com/12042068/2115077
 
 
 
-### 数据库服务器
+#### 数据库服务器
 
 > ----------SQLiteToExcel：一个轻量级库用于将SQLite数据库转换为Excel - Java开发社区 | CTOLib码库
 > https://www.ctolib.com/SQLite2XL.html
@@ -385,7 +385,7 @@ H2采用Java开发的免费SQL数据库
 <br>[⬆ 回到顶部](#目录)
 
 
-### 数据生成(mock)
+#### 数据生成(mock)
 
 > ----------基于多数据库的数据生成器 - Java开发社区 | CTOLib码库
 > https://www.ctolib.com/ysc-data-generator.html
@@ -395,9 +395,9 @@ H2采用Java开发的免费SQL数据库
 
 
 
-### DBA(数据库自动化运维平台)
+#### DBA(数据库自动化运维平台)
 
-#### 元数据管理
+##### 元数据管理
 
 //
 > ----------元数据管理的未来趋势——企业级元数据管理（EMM） - xudawenfighting的博客 - CSDN博客
@@ -429,7 +429,7 @@ H2采用Java开发的免费SQL数据库
 <br>[⬆ 回到顶部](#目录)
 
 
-#### 自助权限申请
+##### 自助权限申请
 
 //
 > ----------数据库自动化运维平台--自助权限申请 - 晨夕的博客 - CSDN博客
@@ -445,14 +445,14 @@ H2采用Java开发的免费SQL数据库
 对于白名单IP不能是网段这条规则，可能会给DBA带来很多的工作量。**RD给出几十个IP白名单让DBA授权是常有的事**，并且在手动授权的过程中容易犯错，比如之前就发生过手动授权覆盖已有账号的密码，使得客户端无法连接数据库的故障。
 
 基于以上原因，最近对RD开放了新的运维平台，自助授权申请平台。
-![enter image description here](https://img-blog.csdn.net/20170615154216143?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvbGl1aGFucmFu/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
-![enter image description here](https://img-blog.csdn.net/20170615163009496?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvbGl1aGFucmFu/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
+![enter image description here](https://img-blog.csdn.net * 20170615154216143?watermark * 2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvbGl1aGFucmFu/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
+![enter image description here](https://img-blog.csdn.net * 20170615163009496?watermark * 2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvbGl1aGFucmFu/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
 产生了任务还需要有人审核才行，**审核规则要结合我们的元数据平台**，需要集群负责人审核。
-![enter image description here](https://img-blog.csdn.net/20170615164558895?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvbGl1aGFucmFu/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
+![enter image description here](https://img-blog.csdn.net * 20170615164558895?watermark * 2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvbGl1aGFucmFu/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
 总结：
 通过平台服务化，使得DBA的工作更有效率，降低重复性工作。﻿﻿
 
-#### SQL自动审核
+##### SQL自动审核
 
 //
 > ----------运维效率之数据迁移自动化 - 云+社区 - 腾讯云
@@ -562,7 +562,7 @@ https://github.com/google/data-transfer-project
 <br>[⬆ 回到顶部](#目录)
 
 
-#### 数据库迁移/同步
+##### 数据库迁移/同步
 
 > ----------Flyway：简单的Java数据库迁移工具 - Java开发社区 | CTOLib码库
 > https://www.ctolib.com/flyway.html
@@ -600,12 +600,12 @@ https://github.com/google/data-transfer-project
 
 ## 2）NoSQL数据库相关(redis/mongoDB/ES...)
 
-### redis
+#### redis
 
 
-#### 客户端
+##### 客户端
 
-##### Redis 操作工具包
+###### Redis 操作工具包
 
 > ----------jedis：Redis的Java客户端 - Java开发社区 | CTOLib码库
 > https://www.ctolib.com/jedis.html
@@ -630,7 +630,7 @@ redisHelper.cmd().set("name", "lisi");
 <br>[⬆ 回到顶部](#目录)
 
 
-##### 两级缓存框架
+###### 两级缓存框架
 
 > ----------J2Cache: Java **两级缓存框架**，可以让应用支持两级缓存框架 ehcache(Caffeine) + redis 。避免完全使用独立缓存系统所带来的网络IO开销问题
 > https://gitee.com/ld/J2Cache
@@ -640,7 +640,7 @@ J2Cache 是 OSChina 目前正在使用的两级缓存框架（要求至少 Java 
 <br>[⬆ 回到顶部](#目录)
 
 
-#### 服务器
+##### 服务器
 > ----------**Redisson** - 构建在Redis服务器之上的分布式可扩展Java数据结构 - Java开发社区 | CTOLib码库
 > https://www.ctolib.com/redisson.html
 
@@ -651,7 +651,7 @@ J2Cache 是 OSChina 目前正在使用的两级缓存框架（要求至少 Java 
 
 
 
-#### 运维/监控
+##### 运维/监控
 
 //
 > ----------redis 一站式管理平台，支持集群创建、管理、监控 - Java开发社区 | CTOLib码库
@@ -684,7 +684,7 @@ CacheCloud提供一个Redis云管理平台：实现多种类型(Redis Standalone
 
 
 
-### 特别推荐
+#### 特别推荐
 
 > 特别推荐：apiJSON，EOVA，CBoard
 
@@ -693,7 +693,7 @@ CacheCloud提供一个Redis云管理平台：实现多种类型(Redis Standalone
 <br>[⬆ 回到顶部](#目录)
 
 
-### 源码学习
+#### 源码学习
 
 > + [芋道源码 —— 纯源码解析博客(愿半生编码，如一生老友！)](http://www.iocoder.cn/)
 
@@ -720,17 +720,17 @@ spring boot 实践学习案例，是 spring boot 初学者及核心技术巩固�
 <br>[⬆ 回到顶部](#目录)
 
 
-### 教育培训
+#### 教育培训
 
 //
 > ----------开发10年，全记在这本Java进阶宝典里了 - 简书
 > https://www.jianshu.com/p/428251ede1aa
-![enter image description here](https://upload-images.jianshu.io/upload_images/10299630-b467fc172d9be65a.jpg?imageMogr2/auto-orient/strip|imageView2/2/w/840/format/webp)
+![enter image description here](https://upload-images.jianshu.io/upload_images/10299630-b467fc172d9be65a.jpg?imageMogr2/auto-orient/strip|imageView2 * 2/w/840/format/webp)
 
 <br>[⬆ 回到顶部](#目录)
 
 
-### 开发手册
+#### 开发手册
 
 > 阿里开发规范
 
@@ -740,7 +740,7 @@ https://github.com/vipshop/vjtools
 <br>[⬆ 回到顶部](#目录)
 
 
-### Lib
+#### Lib
 
 > ----------GitHub 上那些值得一试的 Java 开源库 - arthur.dy.lee的专栏 - CSDN博客
 > https://blog.csdn.net/paincupid/article/details/51923284
@@ -753,7 +753,7 @@ https://github.com/uber/NullAway
 <br>[⬆ 回到顶部](#目录)
 
 
-### Java数据库开发
+#### Java数据库开发
 
 
 
@@ -764,9 +764,9 @@ https://github.com/uber/NullAway
 
 
 
-#### ORM
+##### ORM
 
-##### MyBatis
+###### MyBatis
 
 
 //
@@ -839,7 +839,7 @@ mybatis文件在线自动生成器-让机械无味的mybatis文件编写工作�
 <br>[⬆ 回到顶部](#目录)
 
 
-##### Stream API方式操作数据库
+###### Stream API方式操作数据库
 
 > ----------Speedment：一个数据库访问库它利用了Java 8 Stream API进行查询 - Java开发社区 | CTOLib码库
 > https://www.ctolib.com/speedment.html
@@ -878,7 +878,7 @@ List<User> users = select().from(User.class).like("user_name", "%o%").all();
 <br>[⬆ 回到顶部](#目录)
 
 
-##### 其它ORM框架
+###### 其它ORM框架
 
 > 【list】----------ORM框架 - Java开发社区 | CTOLib码库
 > https://www.ctolib.com/categories/java-orm-pg-2.html
@@ -895,7 +895,7 @@ jOOQ从数据库产生Java代码，并允许您通过其流畅API构建类型安
 
 
 
-#### 数据库连接池
+##### 数据库连接池
 
 > ----------Druid是Java语言中最好的数据库连接池。Druid能够提供强大的监控和扩展功能。 - Java开发社区 | CTOLib码库
 > https://www.ctolib.com/druid.html
@@ -904,7 +904,7 @@ jOOQ从数据库产生Java代码，并允许您通过其流畅API构建类型安
 <br>[⬆ 回到顶部](#目录)
 
 
-#### 数据库中间件
+##### 数据库中间件
 
 
 > ----------| MYCAT官方网站—中国第一开源分布式数据库中间件
@@ -927,11 +927,11 @@ Ctrip DAL是携程框架部开发的数据库访问框架，支持代码生成�
 
 
 
-### 框架
+#### 框架
 
 
 
-#### 快速开发框架：
+##### 快速开发框架：
 
 > JFinal，
 
@@ -940,7 +940,7 @@ Ctrip DAL是携程框架部开发的数据库访问框架，支持代码生成�
 <br>[⬆ 回到顶部](#目录)
 
 
-#### 微服务
+##### 微服务
 
 > Nacos是一个易于使用的平台，旨在实现动态服务发现，配置和服务管理。它可以帮助开发者轻松构建云本机应用程序和微服务平台。
 https://github.com/alibaba/nacos
@@ -948,7 +948,7 @@ https://github.com/alibaba/nacos
 <br>[⬆ 回到顶部](#目录)
 
 
-### tools-代码生成器
+#### tools-代码生成器
 
 > ----------Spring-generator是基于javafx8开发的图形界面Spring代码生成器 - Java开发社区 | CTOLib码库
 > https://www.ctolib.com/EliMirren-Spring-generator.html
@@ -958,7 +958,7 @@ https://github.com/alibaba/nacos
 
 
 
-### tools-监控
+#### tools-监控
 
 > + MBean
 
@@ -990,7 +990,7 @@ LeakCanary - 内存泄漏监控
 <br>[⬆ 回到顶部](#目录)
 
 
-### Java8
+#### Java8
 
 //
 > ----------biezhi/30-seconds-of-java8: 🎱 30 seconds to collect useful Java 8 snippet.
@@ -1000,7 +1000,7 @@ LeakCanary - 内存泄漏监控
 <br>[⬆ 回到顶部](#目录)
 
 
-### JVM
+#### JVM
 
 
 > 【JarsLink (原名 Titan ) -基于 Java 的**模块化**开发框架】
@@ -1026,24 +1026,24 @@ https://github.com/oracle/graal
 <br>[⬆ 回到顶部](#目录)
 
 
-### JVM语言
+#### JVM语言
 
 > ----------Groovy，Clojure和Kotlin都是基于jvm的语言，那他们在实际项目中的运用场景有什么区别？ - 知乎
-> https://www.zhihu.com/question/29818569?sort=created
+> https://www.zhihu.com/question * 29818569?sort=created
 
-#### Groovy
-
-<br>[⬆ 回到顶部](#目录)
-
-
-
-
-#### Kotlin
+##### Groovy
 
 <br>[⬆ 回到顶部](#目录)
 
 
-#### Cloujure
+
+
+##### Kotlin
+
+<br>[⬆ 回到顶部](#目录)
+
+
+##### Cloujure
 
 > ----------Toucan 一个优雅的高级Clojure库，用于定义应用程序模型并从DB中检索它们 - Java开发社区 | CTOLib码库
 > https://www.ctolib.com/toucan.html
@@ -1059,7 +1059,7 @@ https://github.com/oracle/graal
 ## 运维相关
 
 
-#### Jenkins
+##### Jenkins
 
 >Jenkinsfile Runner - 将**Jenkins管道执行封装为命令行工具**的实验 https://www.ctolib.com/kohsuke-jenkinsfile-runner.html
 
@@ -1070,7 +1070,7 @@ https://github.com/oracle/graal
 <br>[⬆ 回到顶部](#目录)
 
 
-#### 发布/部署
+##### 发布/部署
 
 > ----------walle 2.0 瓦力 | walle 瓦力 - 部署系统
 > http://walle-web.io/docs/
@@ -1080,7 +1080,7 @@ walle 让用户代码发布终于可以不只能选择 jenkins！支持各种web
 
 
 
-#### 监控
+##### 监控
 
 //
 > ----------使用Nagios打造专业的业务状态监控 - 云+社区 - 腾讯云
@@ -1095,7 +1095,7 @@ walle 让用户代码发布终于可以不只能选择 jenkins！支持各种web
 
 
 
-#### docker部署
+##### docker部署
 
 //
 > ----------Jib - 一个能够很方便为Java应用程序构建Docker和OCI容器镜像 - Java开发社区 | CTOLib码库
@@ -1146,7 +1146,7 @@ varian是我们基于Python3编写的一套部署程序，处在整个部署系�
 <br>[⬆ 回到顶部](#目录)
 
 
-#### 配置中心
+##### 配置中心
 
 > ----------中小团队落地配置中心详解 - 云+社区 - 腾讯云
 > https://cloud.tencent.com/developer/article/1380942
@@ -1155,7 +1155,7 @@ varian是我们基于Python3编写的一套部署程序，处在整个部署系�
 对比了Disconf、Apollo等方案，最终选择了**Etcd+Confd**的方案，基本符合上边的原则，且Etcd我们在部署Kubernetes的时候已经有过使用，算是轻车熟路。
 > 
 > //配置中心架构图:
-![配置中心架构图](https://ask.qcloudimg.com/http-save/yehe-2933803/vctroqw9cp.png?imageView2/2/w/1620)
+![配置中心架构图](https://ask.qcloudimg.com/http-save/yehe-2933803/vctroqw9cp.png?imageView2 * 2/w/1620)
 
 <br>[⬆ 回到顶部](#目录)
 
@@ -1165,7 +1165,7 @@ varian是我们基于Python3编写的一套部署程序，处在整个部署系�
 
 ## 大数据
 
-### 查询
+#### 查询
 
 > ----------Quicksql：360 开源的更简单，更安全，更快速的跨数据源统一 SQL 查询引擎 - Java开发社区 | CTOLib码库
 > https://www.ctolib.com/Qihoo360-Quicksql.html
@@ -1187,7 +1187,7 @@ Tablesaw - “大数据”
 
 
 
-### 数据同步
+#### 数据同步
 
 > ----------DataX 是阿里巴巴集团内被广泛使用的离线数据同步工具/平台 - Java开发社区 | CTOLib码库
 > https://www.ctolib.com/DataX.html
@@ -1220,7 +1220,7 @@ DataX 是阿里巴巴集团内被广泛使用的离线数据同步工具/平台�
 ## 中小团队技术选型
 
 > ----------小团队构建大网站：中小研发团队架构实践_百度百科
-> https://baike.baidu.com/item/%E5%B0%8F%E5%9B%A2%E9%98%9F%E6%9E%84%E5%BB%BA%E5%A4%A7%E7%BD%91%E7%AB%99%EF%BC%9A%E4%B8%AD%E5%B0%8F%E7%A0%94%E5%8F%91%E5%9B%A2%E9%98%9F%E6%9E%B6%E6%9E%84%E5%AE%9E%E8%B7%B5/23232448?fr=aladdin
+> https://baike.baidu.com/item/%E5%B0%8F%E5%9B%A2%E9%98%9F%E6%9E%84%E5%BB%BA%E5%A4%A7%E7%BD%91%E7%AB%99%EF%BC%9A%E4%B8%AD%E5%B0%8F%E7%A0%94%E5%8F%91%E5%9B%A2%E9%98%9F%E6%9E%B6%E6%9E%84%E5%AE%9E%E8%B7%B5 * 23232448?fr=aladdin
 **《小团队构建大网站：中小研发团队架构实践》**结合作者十几年的工作经验，总结了一套系统又详细、且可落地的中小研发团队架构实践指导方案。
 
 

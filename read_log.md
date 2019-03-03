@@ -3,7 +3,7 @@
 ## 2019-2月阅读日志
 
 
-### bing电脑屏保图片【跟着bing的电脑屏保去旅行】
+#### bing电脑屏保图片【跟着bing的电脑屏保去旅行】
 
 //
 【洛兰岛, 丹麦，2019-2-22】https://cn.bing.com/search?q=洛兰岛%2C+丹麦&filters=IsConversation%3a%22True%22+BTEPKey:%22Encyclo_WL_TulipfieldLollandDK%22&ensearch=0&FORM=EMSDS0
@@ -15,10 +15,10 @@
 https://cn.bing.com/search?q=武吉半岛%2C+巴厘岛&filters=IsConversation%3a%22True%22+BTEPKey:%22Encyclo_WL_ParaglidingBaliIndonesia%22&ensearch=0&FORM=EMSDS0
 
 
-### 人物
+#### 人物
 
 
-#### ==徐卓他们一家为保护丹顶鹤，为了这一初心，他们一家三代成为了丹顶鹤的守护神；
+##### ==徐卓他们一家为保护丹顶鹤，为了这一初心，他们一家三代成为了丹顶鹤的守护神；
 
 //
 > ----------初心不改，你的初心还在么？ - 简书
@@ -32,7 +32,7 @@ https://cn.bing.com/search?q=武吉半岛%2C+巴厘岛&filters=IsConversation%3a
 
 
 
-#### 一直死咬着“转基因”食品不放的崔永元，开始撕F小刚，狂爆F冰冰猛料，捅开了影视圈的黑幕。
+##### 一直死咬着“转基因”食品不放的崔永元，开始撕F小刚，狂爆F冰冰猛料，捅开了影视圈的黑幕。
 //
 > ----------童心VS初心：追风少年和笃信者——六一时节闲话“初心”（下） - 简书
 > https://www.jianshu.com/p/be7d51252c68
@@ -62,21 +62,21 @@ https://cn.bing.com/search?q=武吉半岛%2C+巴厘岛&filters=IsConversation%3a
 > https://www.jianshu.com/p/60f0c8c2bf59
 
 
-### 回忆
+#### 回忆
 //
 > ----------那个充满活力的八十年代 - 简书
 > https://www.jianshu.com/p/dbf72e5781d0
 
 
 
-### book
+#### book
 
 //
 > ----------学习工具《用事实说话》 - 简书
 > https://www.jianshu.com/p/92403288ee03
 
 
-### 日更
+#### 日更
 //
 > ----------（日更第176日）懂得，是我们最美的情人 - 简书
 > https://www.jianshu.com/p/f527c3f521b2
@@ -85,7 +85,7 @@ https://cn.bing.com/search?q=武吉半岛%2C+巴厘岛&filters=IsConversation%3a
 
 
 
-### list未分类
+#### list未分类
 
 //
 search：玩转简书钻
@@ -121,7 +121,7 @@ https://github.com/jiayisheji/jianshu
 
 //
 GitHub - 258ch/jianhelper: 简书助手，爬取简书的文章，并生成EPUB格式。
-https://github.com/258ch/jianhelper
+https://github.com * 258ch/jianhelper
 
 ----------------------------------
 
@@ -203,7 +203,7 @@ https://www.jianshu.com/p/cb6d957c91be
 
 //
 Python数据分析之简书七日热门数据分析 - 简书
-https://www.jianshu.com/p/23a72a945476
+https://www.jianshu.com/p * 23a72a945476
 
 //
 简书非官方大数据（二） - 简书
@@ -290,7 +290,7 @@ https://www.jianshu.com/p/81505b4ca011
 
 //
 Python数据分析之简书粉丝敌我差距 - 简书
-https://www.jianshu.com/p/2e6d34ed09f0
+https://www.jianshu.com/p * 2e6d34ed09f0
 
 //
 玩转itchat，实现好友信息可视化、聊天机器人及性别模型构建 - 简书
@@ -302,7 +302,7 @@ https://www.jianshu.com/p/dc10b988b58e
 
 //
 Python玩转简书钻 - 简书
-https://www.jianshu.com/p/253c27fcccb0
+https://www.jianshu.com/p * 253c27fcccb0
 
 --文章排名代码
 import requests
@@ -583,7 +583,7 @@ https://www.jianshu.com/p/68cd47ac9e83
 
 //
 > ----------有效粉丝计算 - 简书
-> https://www.jianshu.com/p/2dfbdaa6d295
+> https://www.jianshu.com/p * 2dfbdaa6d295
 假设你要计算的是小小亮FLY的粉丝
 所有以下都是爬虫爬取的步骤过程，无需人工参与，首先看看如何获得粉丝：
 
@@ -626,7 +626,7 @@ https://www.jianshu.com/p/68cd47ac9e83
 > https://www.jianshu.com/p/c09994e2e4c6
 
 
-### 2019-2-22
+#### 2019-2-22
 
 //
 > ----------一个抑郁症患者，是怎么一路跌宕地活下来的 - 简书

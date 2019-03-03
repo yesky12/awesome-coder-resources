@@ -8,7 +8,7 @@
 
 ## IDEA
 
-### IDEA插件
+#### IDEA插件
 
 //
 > ----------zzz40500/GsonFormat: 根据Gson库使用的要求,将JSONObject格式的String 解析成实体
@@ -19,7 +19,7 @@
 
 ## Linux
 
-#### Vim
+##### Vim
 
 > ----------一文带你了解 Vim 的起源 - 文章 - 伯乐在线
 > http://blog.jobbole.com/114461/

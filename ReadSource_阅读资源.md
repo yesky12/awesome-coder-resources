@@ -20,7 +20,7 @@
 
 ## 技术社区
 
-#### 微信公众号
+##### 微信公众号
 
 //
 > ----------值得程序员和设计师关注的微信公众号 - 文章 - 伯乐在线
@@ -31,28 +31,28 @@
 
 
 
-#### 邮箱订阅-技术周刊
+##### 邮箱订阅-技术周刊
 
 + [码农周刊是一份专为程序员打造的IT技术周刊。我们会为你精选一周IT技术干货，每周一发送，完全免费。](https://weekly.manong.io/)
 
 
 
-#### 知乎专栏
+##### 知乎专栏
 >  玩转VS Code知乎专栏
 
 
-#### 技术社区
+##### 技术社区
 > ----------IT技术文章_慕课网手记
 > https://www.imooc.com/article/follow
 
 
 
-#### list
+##### list
 > ----------World Wide Web Consortium (W3C)
 > https://www.w3.org/
 
 
-> 【技匠1/2】
+> 【技匠1 * 2】
 > 
 > ----------技匠社 | 资源分享 作品发布 创新合作
 > http://jijiangshe.com/
@@ -65,7 +65,7 @@
 程序员在这里除了能够获得更多开发相关的资源外，还能够学习设计相关的知识和技能，并逐渐成长为一名优秀的全栈工程师,做出优秀的产品。
 
 
-> 【技匠2/2】
+> 【技匠2 * 2】
 > 
 > ----------技匠 - 简书
 > https://www.jianshu.com/users/3313b20a4e25/timeline
@@ -81,13 +81,13 @@
 
 ## 网站
 
-#### 技术社区
+##### 技术社区
 + [掘金 - juejin.im - 一个帮助开发者成长的社区](https://juejin.im/)
 + [SegmentFault 思否 - 后端](https://segmentfault.com/channel/backend)
 + [阿里云云栖社区 - 简书](https://www.jianshu.com/u/12532d36e4da)
 + [云栖社区-阿里云官方开发者社区_权威的云计算社区_大数据论坛_IT技术论坛](https://yq.aliyun.com/)
 
-#### 教育/培训网站
+##### 教育/培训网站
 > ----------慕课网-程序员的梦工厂
 > https://www.imooc.com/
 
@@ -97,31 +97,31 @@
  
 > + [知数学院](http://www.zhishu51.com/)：大数据培训_人工智能培训,大数据_人工智能在线直播学习平台
 
-#### 公司网站
+##### 公司网站
 
 > + [海致BDP-大数据时代的商业智能](https://www.bdp.cn/home.html)
 
-#### 求职网站
+##### 求职网站
 
 > + [拉钩](http://www.lagou.com)
 
 
 ## book
 
-#### 大数据
+##### 大数据
 
 + 《大数据和我们》（Data for the People）
 
-[亚马逊前首席科学家:大数据价值体现在AI、BI、CI、DI|大数据|亚马逊|人工智能_新浪科技_新浪网](http://tech.sina.com.cn/i/2017-01-06/doc-ifxzkfuk2567848.shtml)：
+[亚马逊前首席科学家:大数据价值体现在AI、BI、CI、DI|大数据|亚马逊|人工智能_新浪科技_新浪网](http://tech.sina.com.cn/i * 2017-01-06/doc-ifxzkfuk2567848.shtml)：
 在《大数据和我们》（Data for the People）一书中文版发布之际，作者韦思岸接受了界面新闻记者的采访。
 
 
 ## 博客
 
-#### 大数据博客
+##### 大数据博客
 + [董的博客](http://dongxicheng.org/about/)
 
-#### 开发博客
+##### 开发博客
 + [程序猿DD | 博客](http://blog.didispace.com/)
 
 

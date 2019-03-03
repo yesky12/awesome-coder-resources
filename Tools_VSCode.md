@@ -7,7 +7,7 @@
 ================================================
 
 
-### vscode）重要的
+#### vscode）重要的
 > REST Client 
 > SQL Snippets
 > Code Runner
@@ -26,7 +26,7 @@ Cancelled: ✘ x X [-]
 ================================================
 
 
-### Markdown
+#### Markdown
 
 //
 > Markdown All in One
@@ -43,7 +43,7 @@ Cancelled: ✘ x X [-]
 ================================================
 
 
-### REST Client
+#### REST Client
 
 
 //
@@ -95,7 +95,7 @@ content-type: application/json
 ===============================================
 
 
-### vscode）22
+#### vscode）22
 
 + 2019-1-28 07:52:16
 vscode搜索
@@ -129,14 +129,14 @@ vscode扩展试用
 多行tab显示
 
 
-### awesome-vscode
+#### awesome-vscode
 
 //
 > ----------viatsko/awesome-vscode: 🎨 A curated list of delightful VS Code packages and resources.
 > https://github.com/viatsko/awesome-vscode
 
 
-### java
+#### java
 
 
 //
@@ -180,7 +180,7 @@ https://github.com/jiangdequan/ vscode -java，马刀
 
 
 <!-- list -->
-### vscode）list
+#### vscode）list
 
 //
 > ----------snippet-creator - Visual Studio Marketplace
@@ -238,7 +238,7 @@ vscode-faker [deerawan.vscode-faker]  使用流行的 JavaScript 库 – Faker�
 
 
 
-### vscode）文摘
+#### vscode）文摘
 > ----------SQL Snippets - Visual Studio Marketplace
 > https://marketplace.visualstudio.com/items?itemName=sadeghpm.sql-snippets
 
@@ -265,7 +265,7 @@ Project Manager 快速切换项目
 
 
 > ----------能让你开发效率翻倍的 VSCode 插件配置（中）_慕课手记
-> https://www.imooc.com/article/26032?block_id=tuijian_wz
+> https://www.imooc.com/article * 26032?block_id=tuijian_wz
 Code Runner
 Code Runner，名副其实的代码运行插件，支持数十种语言，在不离开代码编辑器的前提下通过命令面板可直接执行代码，并查看输出。
 

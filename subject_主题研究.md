@@ -20,15 +20,15 @@
 
 ## 主题研究
 
-### 1）REST API
+#### 1）REST API
 
-#### 客户端
+##### 客户端
 
 > Postman
 
 > VSCode插件：REST Client
 
-#### Swagger
+##### Swagger
 
 
 > ----------让接口测试成为合格的桥梁——本地搭建 Swagger-UI 环境搭建 · TesterHome
@@ -36,7 +36,7 @@
 思路就是借鉴服务端开发使用的Swagger UI，定制化我们自己需求的既可以展示Jmeter执行结果，又能让开发在线调试的页面。
 >
 >最后在Swagger UI界面可以查看这里的json文件展示的样式：
-![](https://testerhome.com/uploads/photo/2017/58b183395d7b395df3adae77d379f893.png!large)
+![](https://testerhome.com/uploads/photo * 2017/58b183395d7b395df3adae77d379f893.png!large)
 
 
 
@@ -56,12 +56,12 @@
 
 
 
-#### 测试框架HttpRunner
+##### 测试框架HttpRunner
 
 
-### 2）JSON
+#### 2）JSON
 
-#### 服务器开发
+##### 服务器开发
 
 > apiJSON
 
@@ -69,16 +69,16 @@
 
 > 纯JSON框架
 
-#### 工具
+##### 工具
 
 > IDEA插件：JSON转javaBean
 
 > json在线格式化：http://json.cn
 
 
-### 3）权限管理
+#### 3）权限管理
 
-#### 数据权限
+##### 数据权限
 
 //
 > ----------各功能模块说明 - Yearning_guide
@@ -118,7 +118,7 @@ Yearning采用多源权限策略，以及多权限配合的设计方案。
 
 
 
-#### 开源权限list
+##### 开源权限list
 //
 > ----------jCasbin：支持 MAC、RBAC、ABAC 多种模型的 Java 权限管理框架 - V2EX
 > https://jiasule.v2ex.com/t/446988
@@ -127,7 +127,7 @@ jCasbin 是一个用 Java 语言打造的轻量级开源访问控制框架（ ht
 
 ## debug线上故障排查/调试经验
 
-### List
+#### List
 
 //
 > ----------记一次诡异的故障排查经历 - 云+社区 - 腾讯云

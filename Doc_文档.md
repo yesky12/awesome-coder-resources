@@ -10,12 +10,12 @@
 
 //
 > ----------美团点评技术年货：一本覆盖各技术领域、1200+页的电子书 - 美团技术团队
-> https://tech.meituan.com/2019/01/25/present-by-tech-team-2019.html
+> https://tech.meituan.com * 2019/01 * 25/present-by-tech-team-2019.html
 
 
 //
 > ----------技术年货：美团技术沙龙合辑大放送——85个演讲，70+小时视频 - 美团技术团队
-> https://tech.meituan.com/2019/01/03/jishushalong.html
+> https://tech.meituan.com * 2019/01/03/jishushalong.html
 
 
 
