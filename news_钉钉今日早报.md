@@ -1,5 +1,33 @@
 
 - [C早报](#c%E6%97%A9%E6%8A%A5)
+  - [今日早报（3月8日）](#%E4%BB%8A%E6%97%A5%E6%97%A9%E6%8A%A53%E6%9C%888%E6%97%A5)
+    - [阿里老话：今天很残酷，明天更残酷，后天更美好，但是绝大部分人是死在明天晚上，只有那些真正的英雄，才能见到后天的太阳。](#%E9%98%BF%E9%87%8C%E8%80%81%E8%AF%9D%E4%BB%8A%E5%A4%A9%E5%BE%88%E6%AE%8B%E9%85%B7%E6%98%8E%E5%A4%A9%E6%9B%B4%E6%AE%8B%E9%85%B7%E5%90%8E%E5%A4%A9%E6%9B%B4%E7%BE%8E%E5%A5%BD%E4%BD%86%E6%98%AF%E7%BB%9D%E5%A4%A7%E9%83%A8%E5%88%86%E4%BA%BA%E6%98%AF%E6%AD%BB%E5%9C%A8%E6%98%8E%E5%A4%A9%E6%99%9A%E4%B8%8A%E5%8F%AA%E6%9C%89%E9%82%A3%E4%BA%9B%E7%9C%9F%E6%AD%A3%E7%9A%84%E8%8B%B1%E9%9B%84%E6%89%8D%E8%83%BD%E8%A7%81%E5%88%B0%E5%90%8E%E5%A4%A9%E7%9A%84%E5%A4%AA%E9%98%B3)
+  - [今日早报（3月7日）](#%E4%BB%8A%E6%97%A5%E6%97%A9%E6%8A%A53%E6%9C%887%E6%97%A5)
+    - [阿里老话：诚实正直，言行坦荡。](#%E9%98%BF%E9%87%8C%E8%80%81%E8%AF%9D%E8%AF%9A%E5%AE%9E%E6%AD%A3%E7%9B%B4%E8%A8%80%E8%A1%8C%E5%9D%A6%E8%8D%A1)
+    - [字节跳动深入百度腹地，开启搜索商业化](#%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E6%B7%B1%E5%85%A5%E7%99%BE%E5%BA%A6%E8%85%B9%E5%9C%B0%E5%BC%80%E5%90%AF%E6%90%9C%E7%B4%A2%E5%95%86%E4%B8%9A%E5%8C%96)
+    - [上市前夕裁员调整，沪江身陷成本之困](#%E4%B8%8A%E5%B8%82%E5%89%8D%E5%A4%95%E8%A3%81%E5%91%98%E8%B0%83%E6%95%B4%E6%B2%AA%E6%B1%9F%E8%BA%AB%E9%99%B7%E6%88%90%E6%9C%AC%E4%B9%8B%E5%9B%B0)
+    - [TensorFlow 2.0 新鲜出炉！新版本，新架构，新特性](#tensorflow-20-%E6%96%B0%E9%B2%9C%E5%87%BA%E7%82%89%E6%96%B0%E7%89%88%E6%9C%AC%E6%96%B0%E6%9E%B6%E6%9E%84%E6%96%B0%E7%89%B9%E6%80%A7)
+    - [3个10亿扶持计划，BAT好认真](#3%E4%B8%AA10%E4%BA%BF%E6%89%B6%E6%8C%81%E8%AE%A1%E5%88%92bat%E5%A5%BD%E8%AE%A4%E7%9C%9F)
+    - [唯品会发布中产女性消费报告：自我意识觉醒，消费更自主更悦己](#%E5%94%AF%E5%93%81%E4%BC%9A%E5%8F%91%E5%B8%83%E4%B8%AD%E4%BA%A7%E5%A5%B3%E6%80%A7%E6%B6%88%E8%B4%B9%E6%8A%A5%E5%91%8A%E8%87%AA%E6%88%91%E6%84%8F%E8%AF%86%E8%A7%89%E9%86%92%E6%B6%88%E8%B4%B9%E6%9B%B4%E8%87%AA%E4%B8%BB%E6%9B%B4%E6%82%A6%E5%B7%B1)
+  - [今日早报（3月6日）](#%E4%BB%8A%E6%97%A5%E6%97%A9%E6%8A%A53%E6%9C%886%E6%97%A5)
+    - [阿里老话：别把沙子放大为绊脚石。](#%E9%98%BF%E9%87%8C%E8%80%81%E8%AF%9D%E5%88%AB%E6%8A%8A%E6%B2%99%E5%AD%90%E6%94%BE%E5%A4%A7%E4%B8%BA%E7%BB%8A%E8%84%9A%E7%9F%B3)
+    - [聊天宝（原子弹短信）团队解散，罗永浩已退出](#%E8%81%8A%E5%A4%A9%E5%AE%9D%E5%8E%9F%E5%AD%90%E5%BC%B9%E7%9F%AD%E4%BF%A1%E5%9B%A2%E9%98%9F%E8%A7%A3%E6%95%A3%E7%BD%97%E6%B0%B8%E6%B5%A9%E5%B7%B2%E9%80%80%E5%87%BA)
+    - [从聚会场景切入，Loops 要做阿拉伯人的专属直播社区产品](#%E4%BB%8E%E8%81%9A%E4%BC%9A%E5%9C%BA%E6%99%AF%E5%88%87%E5%85%A5loops-%E8%A6%81%E5%81%9A%E9%98%BF%E6%8B%89%E4%BC%AF%E4%BA%BA%E7%9A%84%E4%B8%93%E5%B1%9E%E7%9B%B4%E6%92%AD%E7%A4%BE%E5%8C%BA%E4%BA%A7%E5%93%81)
+    - [工业大数据分析指南（含解读PPT）](#%E5%B7%A5%E4%B8%9A%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E6%8C%87%E5%8D%97%E5%90%AB%E8%A7%A3%E8%AF%BBppt)
+    - [从“黑历史”到《绿皮书》:阿里影业的五年高考](#%E4%BB%8E%E9%BB%91%E5%8E%86%E5%8F%B2%E5%88%B0%E7%BB%BF%E7%9A%AE%E4%B9%A6%E9%98%BF%E9%87%8C%E5%BD%B1%E4%B8%9A%E7%9A%84%E4%BA%94%E5%B9%B4%E9%AB%98%E8%80%83)
+  - [今日早报（3月5日）](#%E4%BB%8A%E6%97%A5%E6%97%A9%E6%8A%A53%E6%9C%885%E6%97%A5)
+    - [阿里老话：青春不张扬，老了拿什么吹牛逼。](#%E9%98%BF%E9%87%8C%E8%80%81%E8%AF%9D%E9%9D%92%E6%98%A5%E4%B8%8D%E5%BC%A0%E6%89%AC%E8%80%81%E4%BA%86%E6%8B%BF%E4%BB%80%E4%B9%88%E5%90%B9%E7%89%9B%E9%80%BC)
+    - [拼多多：速成的精神胜利法，难以跨越的商业价值观](#%E6%8B%BC%E5%A4%9A%E5%A4%9A%E9%80%9F%E6%88%90%E7%9A%84%E7%B2%BE%E7%A5%9E%E8%83%9C%E5%88%A9%E6%B3%95%E9%9A%BE%E4%BB%A5%E8%B7%A8%E8%B6%8A%E7%9A%84%E5%95%86%E4%B8%9A%E4%BB%B7%E5%80%BC%E8%A7%82)
+    - [华为准备起诉美国政府：称美国政府违宪](#%E5%8D%8E%E4%B8%BA%E5%87%86%E5%A4%87%E8%B5%B7%E8%AF%89%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E7%A7%B0%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E8%BF%9D%E5%AE%AA)
+    - [网易考拉在服务化改造方面的实践](#%E7%BD%91%E6%98%93%E8%80%83%E6%8B%89%E5%9C%A8%E6%9C%8D%E5%8A%A1%E5%8C%96%E6%94%B9%E9%80%A0%E6%96%B9%E9%9D%A2%E7%9A%84%E5%AE%9E%E8%B7%B5)
+    - [2018年，70%的客户在使用NoSQL](#2018%E5%B9%B470%E7%9A%84%E5%AE%A2%E6%88%B7%E5%9C%A8%E4%BD%BF%E7%94%A8nosql)
+    - [雅虎兴衰故事：一个“流量”企业的没落](#%E9%9B%85%E8%99%8E%E5%85%B4%E8%A1%B0%E6%95%85%E4%BA%8B%E4%B8%80%E4%B8%AA%E6%B5%81%E9%87%8F%E4%BC%81%E4%B8%9A%E7%9A%84%E6%B2%A1%E8%90%BD)
+  - [今日早报（3月4日）](#%E4%BB%8A%E6%97%A5%E6%97%A9%E6%8A%A53%E6%9C%884%E6%97%A5)
+    - [阿里老话：开会不能总讲和气，越和气就越微妙。](#%E9%98%BF%E9%87%8C%E8%80%81%E8%AF%9D%E5%BC%80%E4%BC%9A%E4%B8%8D%E8%83%BD%E6%80%BB%E8%AE%B2%E5%92%8C%E6%B0%94%E8%B6%8A%E5%92%8C%E6%B0%94%E5%B0%B1%E8%B6%8A%E5%BE%AE%E5%A6%99)
+    - [网易金融萎缩 保险服务下线倒计时](#%E7%BD%91%E6%98%93%E9%87%91%E8%9E%8D%E8%90%8E%E7%BC%A9-%E4%BF%9D%E9%99%A9%E6%9C%8D%E5%8A%A1%E4%B8%8B%E7%BA%BF%E5%80%92%E8%AE%A1%E6%97%B6)
+    - [买5.26%股权得10%表决权，百度入股汉得信息踏上A股布局路](#%E4%B9%B0526%E8%82%A1%E6%9D%83%E5%BE%9710%E8%A1%A8%E5%86%B3%E6%9D%83%E7%99%BE%E5%BA%A6%E5%85%A5%E8%82%A1%E6%B1%89%E5%BE%97%E4%BF%A1%E6%81%AF%E8%B8%8F%E4%B8%8Aa%E8%82%A1%E5%B8%83%E5%B1%80%E8%B7%AF)
+    - [7-Eleven的慢与中国便利店的快](#7-eleven%E7%9A%84%E6%85%A2%E4%B8%8E%E4%B8%AD%E5%9B%BD%E4%BE%BF%E5%88%A9%E5%BA%97%E7%9A%84%E5%BF%AB)
+    - [特斯拉中国大降价：一场“一石三鸟”的阳谋](#%E7%89%B9%E6%96%AF%E6%8B%89%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%8D%E4%BB%B7%E4%B8%80%E5%9C%BA%E4%B8%80%E7%9F%B3%E4%B8%89%E9%B8%9F%E7%9A%84%E9%98%B3%E8%B0%8B)
   - [4）今日早报（3月1日）](#4%E4%BB%8A%E6%97%A5%E6%97%A9%E6%8A%A53%E6%9C%881%E6%97%A5)
     - [阿里老话：当你的伙伴需要你伸出一只手时，不妨把肩膀也给ta。](#%E9%98%BF%E9%87%8C%E8%80%81%E8%AF%9D%E5%BD%93%E4%BD%A0%E7%9A%84%E4%BC%99%E4%BC%B4%E9%9C%80%E8%A6%81%E4%BD%A0%E4%BC%B8%E5%87%BA%E4%B8%80%E5%8F%AA%E6%89%8B%E6%97%B6%E4%B8%8D%E5%A6%A8%E6%8A%8A%E8%82%A9%E8%86%80%E4%B9%9F%E7%BB%99ta)
     - [快手服务治理平台 KESS 的设计理念和实战](#%E5%BF%AB%E6%89%8B%E6%9C%8D%E5%8A%A1%E6%B2%BB%E7%90%86%E5%B9%B3%E5%8F%B0-kess-%E7%9A%84%E8%AE%BE%E8%AE%A1%E7%90%86%E5%BF%B5%E5%92%8C%E5%AE%9E%E6%88%98)
@@ -269,6 +297,223 @@
 ------------------------------------
 
 ### C早报
+
+
+#### 今日早报（3月8日）
+
+##### 阿里老话：今天很残酷，明天更残酷，后天更美好，但是绝大部分人是死在明天晚上，只有那些真正的英雄，才能见到后天的太阳。
+
+========================
+【行业动态】
+李彦宏后退，马东敏全面执掌百度投资？
+https://mp.weixin.qq.com/s/652VyRz13mdA0RtzZCE_4w
+
+电商时代的7种会员体系：来自亚马逊、星巴克们的经验
+http://tech.sina.com.cn/csj/2019-03-08/doc-ihrfqzkc2134211.shtml
+
+腾讯游戏的下一棵「摇钱树」？
+https://mp.weixin.qq.com/s/yXwk2kXDuP5BXYNjqLbCRA
+
+熊猫直播COO宣布遣散员工
+https://mp.weixin.qq.com/s/L36aonGF-V7Z3xwMdtFo4w
+
+【延伸阅读】
+全球29家大药厂财报汇总(2018年第四季度)
+https://mp.weixin.qq.com/s/WX32J_xYwGt93DgOZCGr5A
+
+Gartner：到 2023 年 2/3 的 iPaaS 供应商将消失
+https://mp.weixin.qq.com/s/WiJUZZLdvwhkDjmUPfnDQw
+
+微博十年，涛声依旧
+https://36kr.com/p/5183324.html
+
+逆势增长的海尔，自信源自何处？
+https://mp.weixin.qq.com/s/DX817jrt3I7wav1g6gPQuw
+
+AWS 是如何做软件开发的 ？
+https://mp.weixin.qq.com/s/zFbdRmbTVCH4P4iAbbV3Nw
+
+【英文阅读】
+NBA and Alibaba join hands to expand partnership in China
+http://www.chinadaily.com.cn/a/201903/07/WS5c807549a3106c65c34ed401.html
+
+阿里老话：今天很残酷，明天更残酷，后天更美好，但是绝大部分人是死在明天晚上，只有那些真正的英雄，才能见到后天的太阳。
+
+
+#### 今日早报（3月7日）
+
+##### 阿里老话：诚实正直，言行坦荡。
+
+========================
+【行业动态】
+蒋凡兼任天猫总裁，天猫将重回“大淘宝”？
+https://mp.weixin.qq.com/s/73-45gecyGRlS5TzJz097g
+
+腾讯未来“挑大梁”的业务在哪里？
+https://mp.weixin.qq.com/s/KHI2LUx9VnRaq98CGJd5Vw
+
+##### 字节跳动深入百度腹地，开启搜索商业化
+https://mp.weixin.qq.com/s/7phGK6xzKz92m59EEd7row
+
+##### 上市前夕裁员调整，沪江身陷成本之困
+https://mp.weixin.qq.com/s/XiyeCwd-cZXJy3h99Z18RA
+
+滴滴顺风车等待上线的180天
+https://mp.weixin.qq.com/s/zD77yb6QzalTl2F2BtzKuw
+
+【延伸阅读】
+2019全球最有价值的50大电信品牌排行榜
+https://mp.weixin.qq.com/s/UTdpWAHWoIGS0_M02pAkvw
+
+##### TensorFlow 2.0 新鲜出炉！新版本，新架构，新特性
+https://mp.weixin.qq.com/s/CrqJlEB7Qc0ngN0Gm3mBRg
+
+Gartner：2019 年 MSP 魔力象限
+https://mp.weixin.qq.com/s/_16-3Sj6Kdosv7LWMGqOXQ
+
+##### 3个10亿扶持计划，BAT好认真
+https://mp.weixin.qq.com/s/h9w1GWoYHquYyv-11L1Zvg
+
+##### 唯品会发布中产女性消费报告：自我意识觉醒，消费更自主更悦己
+https://36kr.com/p/5182970.html
+
+【英文阅读】
+Tech suggestions and proposals from the 2019 two sessions
+http://www.chinadaily.com.cn/a/201903/07/WS5c804c40a3106c65c34ed308_2.html
+
+阿里老话：诚实正直，言行坦荡。
+
+#### 今日早报（3月6日）
+
+##### 阿里老话：别把沙子放大为绊脚石。
+
+========================
+【行业动态】
+Android告急！谁会从Google手中抢走Android？
+http://tech.sina.com.cn/csj/2019-03-06/doc-ihrfqzkc1547261.shtml
+
+「朋友会员」来了，微信支付又有了新变化 
+https://mp.weixin.qq.com/s/tWCsdJnKGrYCafKN0a94Iw
+
+##### 聊天宝（原子弹短信）团队解散，罗永浩已退出
+https://mp.weixin.qq.com/s/Z3wRIJZkrQzum2bODGl5eA
+
+趣头条Q4营收超13亿亏损近4亿，米读小说半年获4000万新增用户
+https://36kr.com/p/5182763.html
+
+##### 从聚会场景切入，Loops 要做阿拉伯人的专属直播社区产品
+https://36kr.com/p/5182501.html
+
+法大大完成3.98亿元C轮融资，老虎环球及腾讯联合领投
+https://36kr.com/p/5182774.html
+
+【延伸阅读】
+盘点MWC2019背后：5G商用市场巨大，消费类IoT设备或“别开生面”
+https://mp.weixin.qq.com/s/OAx4BGjFBpgSnrLTiRMvKg
+
+##### 工业大数据分析指南（含解读PPT）
+https://mp.weixin.qq.com/s/yP8kiiqVD2X7cDncwwkyiQ
+
+微博vs今日头条，谁才是电影互联网营销的主战场？
+https://36kr.com/p/5182707.html
+
+##### 从“黑历史”到《绿皮书》:阿里影业的五年高考
+https://tech.sina.com.cn/i/2019-03-06/doc-ihsxncvh0173868.shtml
+
+【英文阅读】
+Chinese 'orange king' dies at the age of 91
+http://www.chinadaily.com.cn/a/201903/05/WS5c7e30b6a3106c65c34ece77.html
+
+阿里老话：别把沙子放大为绊脚石。
+
+
+
+#### 今日早报（3月5日） 
+
+##### 阿里老话：青春不张扬，老了拿什么吹牛逼。
+
+========================
+【行业动态】
+##### 拼多多：速成的精神胜利法，难以跨越的商业价值观
+http://tech.sina.com.cn/csj/2019-03-05/doc-ihsxncvf9867690.shtml
+
+##### 华为准备起诉美国政府：称美国政府违宪
+https://mp.weixin.qq.com/s/0hnB0Q3Hc6D3sFyOFQV_yA
+
+YY收购海外视频社交平台BIGO ，交易总金额约为14.5亿美元
+https://36kr.com/p/5182362.html
+
+我有iQOO，你还年轻吗？
+https://mp.weixin.qq.com/s/V0v13fvYNu19r7hZEuQdvA
+
+携程Q4净营收76亿元超市场预期，盘后股价涨超6%
+https://36kr.com/p/5182365.html
+
+虎牙Q4营收超15亿元，连续5个季度盈利，盘后股价涨超7%
+https://36kr.com/p/5182363.html
+
+【延伸阅读】
+2019年度亚太最大的65家零售企业排行榜
+https://mp.weixin.qq.com/s/P_BszxOZ4sFXgrLyrjNKkA
+
+##### 网易考拉在服务化改造方面的实践
+https://mp.weixin.qq.com/s/muNwuogm0XJWGmzrQdQjvA
+
+##### 2018年，70%的客户在使用NoSQL
+https://mp.weixin.qq.com/s/uKzGlYGzuORO2weUKKg2jg
+
+##### 雅虎兴衰故事：一个“流量”企业的没落
+http://tech.sina.com.cn/csj/2019-03-05/doc-ihsxncvf9870437.shtml
+
+Gartner指出2019十大数据与分析技术趋势
+https://mp.weixin.qq.com/s/OTxyhDiJgsRq2I2U1n7KLA
+
+【英文阅读】
+IBM files $51 million counter lawsuit against Israel Chemicals
+http://www.chinadaily.com.cn/a/201903/04/WS5c7d1eaaa3106c65c34ecae3.html
+
+阿里老话：青春不张扬，老了拿什么吹牛逼。
+
+
+#### 今日早报（3月4日）
+
+##### 阿里老话：开会不能总讲和气，越和气就越微妙。
+
+========================
+【行业动态】
+刘强东再次「回归」，CHO变动拉开京东组织架构巨变帷幕
+https://mp.weixin.qq.com/s/6fxuUusCwerpY3KvfxAGkw
+
+腾讯抖音接连入局超休闲游戏：爱玩但不爱给钱成痛点
+https://tech.sina.com.cn/i/2019-03-04/doc-ihrfqzkc0861820.shtml
+
+阿里云午夜再宕机 云服务商99.99%的安全性有多可靠
+https://tech.sina.com.cn/i/2019-03-04/doc-ihsxncvf9509333.shtml
+
+##### 网易金融萎缩 保险服务下线倒计时
+https://tech.sina.com.cn/i/2019-03-04/doc-ihsxncvf9514827.shtml
+
+##### 买5.26%股权得10%表决权，百度入股汉得信息踏上A股布局路
+https://36kr.com/p/5181987.html
+
+【延伸阅读】
+2019年2月全球企业并购总结：两家银行合并为美国第六大银行
+https://mp.weixin.qq.com/s/67_7lcBB76_0mRp8csncOg
+
+##### 7-Eleven的慢与中国便利店的快
+https://mp.weixin.qq.com/s/JhFk26qPyFbKlphbhgBfAw
+
+##### 特斯拉中国大降价：一场“一石三鸟”的阳谋
+https://36kr.com/p/5181997.html
+
+31省市GDP揭晓：南北分化加剧，强省会趋势更明朗
+https://mp.weixin.qq.com/s/sEl5FXtkPbLmWc0b8ziSgA
+
+【英文阅读】
+Central Beijing to get 5G in 2019 as network construction will cover strategic areas
+http://www.globaltimes.cn/content/1140765.shtml
+
+阿里老话：开会不能总讲和气，越和气就越微妙。
 
 #### 4）今日早报（3月1日）
 
